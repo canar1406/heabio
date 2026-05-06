@@ -30,13 +30,38 @@ webonline thi sinh/
 
 ## Cách sử dụng
 
-### 1. Chuẩn bị Dữ Liệu Đề Thi
+### 1. Quy Tắc Viết File Markdown Dữ Liệu Đề Thi (Rules)
 
-Viết đề thi bằng các file Markdown (`.md`) với quy tắc sau:
-- **Phần I (Nhiều lựa chọn):** Đặt đáp án đúng với dấu `*` ở đầu, VD: `*A. Nội dung`. Đánh số thứ tự câu hỏi là `**Câu 1:**` hoặc `**Câu 1.**`.
-- **Phần II (Đúng/Sai):** Kết thúc mệnh đề bằng `*ĐÚNG` hoặc `*SAI`. VD: `a) Nội dung... *ĐÚNG`.
-- **Phần III (Trả lời ngắn):** Ghi đáp án đúng dưới cùng, VD: `*Đáp án: 12` hoặc `Đáp án: 12`.
-- **Hình ảnh:** Bạn có thể chèn ảnh trực tiếp vào file Markdown bằng đường dẫn nội bộ máy tính của bạn. Script sẽ tự động tìm và copy ảnh đó vào thư mục dự án.
+Để Script có thể bóc tách chính xác 100% dữ liệu, hãy tuân thủ nghiêm ngặt các quy tắc trình bày trong file `.md` sau đây:
+
+**a. Quy tắc phân chia Phần thi (Headers):**
+- Đề thi phải được chia làm 3 phần, có tiêu đề chứa chữ (không phân biệt viết hoa/thường):
+  - `## PHẦN I` (Dành cho trắc nghiệm nhiều phương án)
+  - `## PHẦN II` (Dành cho trắc nghiệm Đúng/Sai)
+  - `## PHẦN III` (Dành cho tự luận/trả lời ngắn)
+*(Lưu ý: Có thể viết thêm chữ phía sau, ví dụ: `## PHẦN I. CÂU TRẮC NGHIỆM...`, nhưng bắt buộc phải có `## PHẦN I`)*
+
+**b. Quy tắc khai báo Câu hỏi:**
+- Bắt đầu mỗi câu hỏi BẮT BUỘC phải dùng định dạng in đậm: `**Câu X:**` hoặc `**Câu X.**` (trong đó X là số thứ tự).
+- Ví dụ: `**Câu 1:** Theo thuyết tiến hóa...`
+
+**c. Quy tắc khai báo Đáp án cho từng phần:**
+- **Phần I (Nhiều lựa chọn):** 
+  - Các đáp án phải bắt đầu bằng chữ cái hoa và dấu chấm, có khoảng trắng: `A. `, `B. `, `C. `, `D. `.
+  - **Đáp án đúng** phải được đánh dấu bằng ký tự `*` sát ngay trước chữ cái. Ví dụ: `*A. Nội dung đáp án đúng.`
+- **Phần II (Đúng/Sai):** 
+  - Các ý phải bắt đầu bằng chữ cái thường và dấu ngoặc: `a) `, `b) `, `c) `, `d) `.
+  - Cuối mỗi ý **bắt buộc** phải chốt lại bằng từ khóa `*ĐÚNG` hoặc `*SAI`. 
+  - Ví dụ: `a) Chim cánh cụt biết bay. *SAI`
+- **Phần III (Trả lời ngắn):** 
+  - Ghi câu trả lời đúng ở dòng cuối cùng của câu hỏi, bắt đầu bằng từ khóa `*Đáp án: ` hoặc `Đáp án: `. 
+  - Ví dụ: `*Đáp án: 12.5`
+
+**d. Quy tắc hình ảnh và công thức Toán học/Hóa học:**
+- **Hình ảnh:** Cứ chèn ảnh bình thường bằng cú pháp Markdown `![Tên ảnh](đường/dẫn/ảnh.png)`. Bạn có thể copy ảnh trực tiếp vào Typora, hệ thống sẽ tự động tìm ảnh đó trên máy của bạn và đưa lên web.
+- **Công thức Toán/Hóa (LaTeX):** 
+  - Đặt công thức nội suy (cùng hàng) trong cặp dấu `$`. Ví dụ: `$H' = -\sum_{i=1}^{S}$`
+  - Đặt công thức thành khối (xuống dòng) trong cặp dấu `$$`. Ví dụ: `$$ x = \frac{-b \pm \sqrt{\Delta}}{2a} $$`
 
 ### 2. Cập nhật Dữ liệu (Chạy Parser)
 
