@@ -2,12 +2,19 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkBreaks from 'remark-breaks';
 import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 export default function MultipleChoice({ data, selectedAnswer, onChange, isSubmitted }) {
   return (
     <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 mb-6 transition-all duration-300 hover:shadow-md">
-      <div className="text-lg font-semibold text-gray-800 mb-4 prose prose-slate">
-        <ReactMarkdown remarkPlugins={[remarkBreaks, remarkGfm]}>{data.question}</ReactMarkdown>
+      <div className="text-lg font-semibold text-gray-800 mb-4 prose prose-slate max-w-none">
+        <ReactMarkdown 
+          remarkPlugins={[remarkBreaks, remarkGfm, remarkMath]}
+          rehypePlugins={[rehypeKatex]}
+        >
+          {data.question}
+        </ReactMarkdown>
       </div>
       <div className="space-y-3">
         {data.options.map((option) => {
@@ -44,9 +51,10 @@ export default function MultipleChoice({ data, selectedAnswer, onChange, isSubmi
               </div>
               <div className="ml-3 flex-1 flex items-start">
                 <span className="font-bold mr-2 mt-[2px]">{option.key}.</span>
-                <div className="text-gray-700 prose prose-slate flex-1">
+                <div className="text-gray-700 prose prose-slate flex-1 max-w-none">
                   <ReactMarkdown 
-                    remarkPlugins={[remarkBreaks, remarkGfm]}
+                    remarkPlugins={[remarkBreaks, remarkGfm, remarkMath]}
+                    rehypePlugins={[rehypeKatex]}
                     components={{ p: 'span' }}
                   >
                     {option.text}
