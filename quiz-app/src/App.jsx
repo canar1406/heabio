@@ -8,7 +8,7 @@ export default function App() {
   const [quizzes, setQuizzes] = useState([]);
 
   useEffect(() => {
-    fetch('/data.json')
+    fetch(`${import.meta.env.BASE_URL}data.json`)
       .then(res => res.json())
       .then(data => setQuizzes(data))
       .catch(err => console.error('Failed to load quiz data', err));

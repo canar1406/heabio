@@ -25,8 +25,8 @@ function processImages(text) {
       const destPath = path.join(outputDir, fileName);
       fs.copyFileSync(imagePath, destPath);
       
-      // Replace path in text with relative path
-      updatedText = updatedText.replace(match[0], `![${altText}](/images/${fileName})`);
+      // Replace path in text with relative path without leading slash
+      updatedText = updatedText.replace(match[0], `![${altText}](images/${fileName})`);
     } else {
         console.warn(`Warning: Image not found at ${imagePath}`);
     }
@@ -166,7 +166,7 @@ function toSlug(str) {
 const quizzes = [];
 
 fs.readdirSync(inputDir).forEach(file => {
-    if (file.endsWith('.md') && file !== 'plan.md') {
+    if (file.endsWith('.md') && file !== 'plan.md' && file !== 'README.md') {
         const content = fs.readFileSync(path.join(inputDir, file), 'utf8');
         const parsedData = parseFile(content);
         
