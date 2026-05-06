@@ -1,0 +1,5077 @@
+[
+  {
+    "id": "BÀI 26 QUẦN XÃ SINH VẬT",
+    "title": "BÀI 26 QUẦN XÃ SINH VẬT",
+    "slug": "bai-26-quan-xa-sinh-vat",
+    "data": {
+      "part1_multipleChoice": [
+        {
+          "id": "p1_q1",
+          "question": "Tổ chức gồm các quần thể của nhiều loài khác nhau, cùng sống trong một không gian, thời gian nhất định, gắn bó với nhau như một thể thống nhất qua mối quan hệ dinh dưỡng và nơi ở được gọi là",
+          "options": [
+            {
+              "key": "A",
+              "text": "quần thể.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "hệ sinh thái.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q2",
+          "question": "Loài có số lượng lớn nhất hoặc sinh khối cao nhất trong quần xã được gọi là",
+          "options": [
+            {
+              "key": "A",
+              "text": "loài chủ chốt.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "loài ngẫu nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "loài ưu thế.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "loài thứ yếu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q3",
+          "question": "Loài chỉ phân bố hoặc tập trung nhiều ở một số sinh cảnh nhất định nhưng có vai trò quan trọng trong quần xã được gọi là",
+          "options": [
+            {
+              "key": "A",
+              "text": "loài đặc trưng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "loài ngẫu nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "loài chủ chốt.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "loài thứ yếu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "question": "Loài có vai trò kiểm soát, khống chế sự phát triển của loài khác và quyết định sự tồn tại của quần xã được gọi là",
+          "options": [
+            {
+              "key": "A",
+              "text": "loài đặc trưng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "loài chủ chốt.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "loài ưu thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "loài thứ yếu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "question": "Thành phần không thuộc cấu trúc dinh dưỡng quần xã là",
+          "options": [
+            {
+              "key": "A",
+              "text": "sinh vật phân giải.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "sinh vật tiêu thụ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sinh vật sản xuất.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "xác sinh vật, chất hữu cơ.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q6",
+          "question": "Mối quan hệ nào dưới đây không gây hại gì cho tất cả các loài tham gia?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hội sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Vật chủ – vật kí sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Ức chế – cảm nhiễm.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Con mồi – vật ăn thịt.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q7",
+          "question": "Khi nói về các mối quan hệ trong quần xã, ví dụ nào sau đây phản ánh quan hệ hợp tác giữa các loài?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Vi khuẩn lam sống trong nốt sần rễ đậu.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Chim sáo đậu trên lưng trâu rừng.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Cây phong lan bám trên thân cây gỗ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Cây tầm gửi sống trên thân cây gỗ.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "question": "Trùng roi (Trichomonas) sống trong ruột mối tiết enzyme phân giải cellulose trong thức ăn thành đường để nuôi sống cả hai. Đây là mối quan hệ",
+          "options": [
+            {
+              "key": "A",
+              "text": "hợp tác.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "hội sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "cộng sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "kí sinh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "question": "Khi nói về các mối quan hệ trong quần xã, cây phong lan sống bám trên cây thân gỗ này là quan hệ",
+          "options": [
+            {
+              "key": "A",
+              "text": "ức chế - cảm nhiễm.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "kí sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "hội sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "cộng sinh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q10",
+          "question": "Khi nói về các mối quan hệ trong quần xã, mối quan hệ nào sau đây là mối quan hệ kí sinh?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cây tầm gửi và cây thân gỗ.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Cá ép sống bám trên cá lớn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hải quỳ và cua.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Chim mỏ đỏ và linh dương.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q11",
+          "question": "Khi nói về các mối quan hệ trong quần xã, tảo giáp nở hoa gây độc cho cá, tôm sống trong cùng môi trường đây là quan hệ",
+          "options": [
+            {
+              "key": "A",
+              "text": "kí sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "cộng sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "hội sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "ức chế - cảm nhiễm.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "question": "Khi nói về các mối quan hệ trong quần xã, quan hệ sinh thái nào sau đây thuộc quan hệ hỗ trợ giữa các loài?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kí sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Ức chế - cảm nhiễm.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Cạnh tranh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Cộng sinh.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "question": "Loài xuất hiện ở khu vực vốn không phải là môi trường sống tự nhiên của chúng là",
+          "options": [
+            {
+              "key": "A",
+              "text": "loài đặc trưng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "loài ngoại lai.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "loài ưu thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "loài thứ yếu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q14",
+          "question": "Ổ sinh thái là",
+          "options": [
+            {
+              "key": "A",
+              "text": "không gian sinh thái mà ở đó một nhân tố sinh thái nào đó nằm trong giới hạn cho phép sự tồn tại, phát triển lâu dài của loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "không gian sinh thái mà ở đó tất cả các nhân tố sinh thái nằm trong giới hạn cho phép sự tồn tại, phát triển lâu dài của loài.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "không gian sinh thái mà ở đó tất cả các nhân tố sinh thái nằm ngoài giới hạn cho phép sự tồn tại, phát triển lâu dài của loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "không gian sinh thái mà ở đó một nhân tố sinh thái nào đó nằm ngoài giới hạn cho phép sự tồn tại, phát triển lâu dài của loài.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q15",
+          "question": "Độ đa dạng của quần xã được thể hiện",
+          "options": [
+            {
+              "key": "A",
+              "text": "qua số lượng loài trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "qua số lượng loài trong quần xã và tỉ lệ số cá thể của mỗi loài so với tổng số cá thể trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "qua tỉ lệ số cá thể của nhiều loài so với tổng số cá thể trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "qua số lượng loài trong quần xã và tỉ lệ số cá thể của nhiều loài so với tổng số cá thể trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q16",
+          "question": "Các quần xã trong tự nhiên thường có kiểu phân bố chính là",
+          "options": [
+            {
+              "key": "A",
+              "text": "phân bố đều, phân bố theo nhóm.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "phân bố theo chiều thẳng đứng, phân bố theo chiều ngang.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "phân bố theo nhóm, phân bố ngẫu nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "phân bố theo chiều thẳng đứng, phân bố đều.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q17",
+          "question": "Đặc trưng nào sau đây là không phải là đặc trưng cơ bản của quần xã sinh vật?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Độ đa dạng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Cấu trúc không gian.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Thành phần loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tỉ lệ giới tính.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q18",
+          "question": "Một trong những đặc trưng cơ bản của quần xã là",
+          "options": [
+            {
+              "key": "A",
+              "text": "cấu trúc không gian.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "mật độ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "kích thước.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "kiểu tăng trưởng.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q19",
+          "question": "Tập hợp sinh vật nào sau đây có thể xem như một quần xã sinh vật?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tất cả cá rô đang sống trong cùng một ao.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Một vườn hoa độc lập gồm toàn hoa hồng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Các hươu, nai ở Thảo cầm viên hay Thủ Lệ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Mọi sinh vật (tôm, cá, rong, vi khuẩn...) ở ao.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q20",
+          "question": "Nguyên nhân nào dẫn tới sự phân tầng trong quần xã sinh vật?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tăng khả năng sử dụng nguồn sống của sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Tăng nguồn dinh dưỡng của môi trường sống.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sự phân hóa ổ sinh thái của các loài trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Giảm số lượng cá thể trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q21",
+          "question": "Để diệt sâu đục thân lúa người ta thả ong mắt đỏ vào ruộng lúa, hiện tượng này được gọi là",
+          "options": [
+            {
+              "key": "A",
+              "text": "cạnh tranh cùng loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "cân bằng sinh học.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "khống chế sinh học.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "cân bằng quần thể.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q22",
+          "question": "Một quần xã có tính ổn định thường có",
+          "options": [
+            {
+              "key": "A",
+              "text": "số lượng loài nhỏ và số lượng cá thể của loài thấp.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "số lượng loài nhỏ và số lượng cá thể của loài cao.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "số lượng loài lớn và số lượng cá thể của loài cao.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "số lượng loài lớn và số lượng cá thể của loài thấp.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q23",
+          "question": "Rừng lá kim phương Bắc (rừng Taiga) là",
+          "options": [
+            {
+              "key": "A",
+              "text": "một loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "một quần thể.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "một sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "một quần xã.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q24",
+          "question": "Nhiều loài gần nhau về nguồn gốc và có chung nguồn sống cùng tồn tại trong một sinh cảnh thì sự cạnh tranh giữa các loài sẽ",
+          "options": [
+            {
+              "key": "A",
+              "text": "làm cho chúng có xu hướng phân li ổ sinh thái.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "làm cho các loài này đều bị tiêu diệt.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "làm tăng thêm nguồn sống trong sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "làm gia tăng số lượng cá thể của mỗi loài.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q25",
+          "question": "Khi nói về ổ sinh thái. Theo lý thuyết, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hai loài có ổ sinh thái khác nhau thì không cạnh tranh nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Cùng một nơi ở chỉ chứa một ổ sinh thái.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Sự hình thành loài mới gắn liền với sự hình thành ổ sinh thái mới.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Cạnh tranh cùng loài là nguyên nhân chính làm mở rộng ổ sinh thái của mỗi loài.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q26",
+          "question": "Khi nói về sự phân bố cá thể trong không gian của quần xã. Theo lý thuyết, phát biểu nào sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sinh vật phân bố theo chiều ngang thường tập trung nhiều ở vùng có điều kiện sống thuận lợi như đất màu mỡ, độ ẩm thích hợp, thức ăn dồi dào.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Phân bố cá thể trong không gian của quần xã tùy thuộc vào nhu cầu sống của từng loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sự phân bố cá thể trong tự nhiên có xu hướng làm giảm bớt mức độ cạnh tranh giữa các loài và nâng cao hiệu quả sử dụng nguồn sống của môi trường.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong hệ sinh thái rừng mưa nhiệt đới, chỉ có sự phân tầng của các loài thực vật, không có sự phân tầng của các loài động vật.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q27",
+          "question": "Khi nói về quần xã. Theo lý thuyết, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mỗi quần xã thường có một số lượng loài nhất định, khác với quần xã khác.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Các quần xã ở vùng ôn đới có độ đa dạng loài cao hơn các quần xã ở vùng nhiệt đới.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Tính đa dạng về loài của quần xã phụ thuộc vào nhiều yếu tố như: sự cạnh tranh giữa các loài, mối quan hệ vật ăn thịt – con mồi, sự thay đổi của môi trường vô sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Quần xã càng đa dạng về loài bao nhiêu thì số lượng cá thể của mỗi loài càng ít bấy nhiêu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q28",
+          "question": "Khi nói về quần xã, hiện tượng nào sau đây sẽ làm giảm cạnh tranh giữa các cá thể khác loài, tăng khả năng sử dụng và khai thác nguồn sống của môi trường?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cộng sinh giữa các cá thể.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Phân tầng trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Biến động số lượng của các quần thể.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Diễn thế sinh thái.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q29",
+          "question": "Khi nói về độ đa dạng của quần xã. Theo lý thuyết, có bao nhiêu phát biểu nào sau đây là đúng?\r\nI. Độ đa dạng của quần xã phụ thuộc vào điều kiện sống của môi trường.\r\nII. Trong quá trình diễn thế nguyên sinh, độ đa dạng của quần xã tăng dần.\r\nIII. Quần xã có độ đa dạng càng cao thì thành phần loài càng dễ bị biến động.\r\nIV. Độ đa dạng của quần xã càng cao thì sự phân hóa ổ sinh thái càng mạnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "3.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q30",
+          "question": "Khi nói về mối quan hệ giữa các loài trong quần xã. Theo lý thuyết, có bao nhiêu phát biểu nào sau đây là đúng?\r\nI. Trùng roi sống trong ruột mối là mối quan hệ cộng sinh.\r\nII. Chim sáo đậu trên lưng trâu rừng bắt ve bét là mối quan hệ hợp tác.\r\nIII. Cây nắp ấm bắt côn trùng là mối quan hệ vật ăn thịt con mồi.\r\nIV. Dây tơ hồng sống bám trên các cây nhãn là mối quan hệ kí sinh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "4.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q31",
+          "question": "Khi nói về mối quan hệ ức chế - cảm nhiễm. Theo lý thuyết, có bao nhiêu phát biểu nào sau đây là đúng?\r\nI. Tảo giáp nở hoa gây độc cho cá, tôm, chim ăn cá.\r\nII. Cây phong lan sống bám trên thân cây gỗ.\r\nIII. Cây tỏi tiết chất gây ức chế hoạt động của vi sinh vật xung quanh.\r\nIV. Cú và chồn cùng sống trong rừng, cùng bắt chuột làm thức ăn.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q32",
+          "question": "Khi nói về mối quan hệ giữa vật ăn thịt và con mồi. Theo lý thuyết, có bao nhiêu phát biểu nào sau đây là đúng?\r\nI. Quần thể ăn thịt thường có số lượng ít hơn quần thể con mồi.\r\nII. Khả năng tăng số lượng cá thể của quần thể vật ăn thịt nhanh hơn so với quần thể con mồi.\r\nIII. Khi xảy ra biến động số lượng cá thể thì quần thể con mồi thường biến động trước quần thể sinh vật ăn thịt.\r\nIV. Quần thể con mồi bị biến động về số lượng thì sẽ kéo theo quần thể vật ăn thịt biến động theo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "3.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q33",
+          "question": "\"Thủy triều đỏ\" hay còn gọi là tảo nở hoa là hiện tượng quá nhiều tảo sinh sản với số lượng nhanh trong nước. Các nhà khoa học gọi đây là \"hiện tượng tảo nở hoa độc hại\" (HABs). Thảm họa \"thủy triều đỏ\" ở Bình Thuận trung tuần tháng 7/2002 từng làm khoảng 90% sinh vật trong vùng triều, kể cả cá, tôm trong các lồng, bè bị tiêu diệt; môi trường bị ô nhiễm nặng, mấy tháng sau mới hồi phục\" (Theo khoahoc.tv). Có bao nhiêu phát biểu sau đây đúng về hiện tượng trên?\r\nI. Tảo nở hoa gây hại cho các sinh vật biển là ví dụ về mối quan hệ ức chế - cảm nhiễm.\r\nII. Sự tồn tại của các loại tảo (gây hiện tượng thủy triều đỏ) là hoàn toàn không có lợi cho hệ sinh thái.\r\nIII. Thắt chặt việc kiểm soát nguồn chất thải, nhất là ở vùng nuôi trồng thủy, hải sản là một trong những biện pháp hạn chế HABs.\r\nIV. Loại bỏ các loài tảo ra khỏi hệ sinh thái sẽ đảm bảo sự phát triển cân bằng của hệ sinh thái.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q34",
+          "question": "Mối quan hệ giữa loài A và B được biểu diễn bằng sự biến động số lượng của chúng theo hình bên. Có bao nhiêu phát biểu sau đây là đúng?\r\n![image-20260506210713949](/images/image-20260506210713949.png)\r\nI. Mối quan hệ giữa hai loài này là quan hệ cạnh tranh.\r\nII. Kích thước cơ thể của loài A luôn lớn hơn loài B.\r\nIII. Sự biến động số lượng của loài A dẫn đến sự biến động số lượng của loài B và ngược lại.\r\nIV. Có thể loài A là con mồi, loài B là vật ăn thịt.\r\nV. Mối quan hệ giữa 2 loài A và B được xem là động lực cho quá trình tiến hóa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q35",
+          "question": "Nhím biển (Echinoidea) là nguồn thức ăn cho rái cá (Enhydra lutris). Quần thể nhím biển có xu hướng mở rộng tại nơi đáy biển bị con người phá hủy. Nhím biển, sên biển (Patella vulgata) và rong biển có thể sống chung ở một chỗ. Hình dưới đây mô tả tăng trưởng quần thể của rong biển được đo đạc tại vị trí thí nghiệm nơi nhím biển và sên biển được khống chế bằng phương pháp nhân tạo. Theo lí thuyết, có bao nhiêu nhận định sau đây đúng?\r\n![image-20260506210736428](/images/image-20260506210736428.png)\r\nI. Sên biển làm thay đổi ảnh hưởng của nhím biển lên sự phát triển của rong biển.\r\nII. Tác động của nhím biển lên rong biển nhiều hơn tác động của sên biển lên rong biển.\r\nIII. Nhím biển giúp phục hồi đáy biển bị phá hủy.\r\nIV. Tăng số lượng rái cá có thể hạn chế tác động đến rong biển.",
+          "options": [
+            {
+              "key": "A",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "2.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "3.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q36",
+          "question": "Tại các quần xã ngập nước triều trên bãi đá ở miền Tây Bắc nước Mỹ, có loài sao biển (P. ocharaceus) tương đối hiếm, sao biển ăn thịt loài trai (M. californianous). Theo nghiên cứu của Rober Paine ở trường Đại học Washington, nếu loại bỏ sao biển P. ocharaceus khỏi vùng ngập triều thì trai độc quyền chiếm giữ trên mặt đá, đồng thời loại bỏ hầu hết các động vật không xương sống và tảo ở đó. Đồ thị dưới đây mô tả độ đa dạng loài của quần xã này trong điều kiện có hoặc không có loài sao biển P. ocharaceus.\r\n![image-20260506210754575](/images/image-20260506210754575.png)\r\nCó bao nhiêu nhận định sau đây đúng?\r\nI. Đường b là đồ thị mô tả biến động số lượng loài của quần xã khi không có sao biển P. ocharaceus.\r\nII. Khi có sao biển P. ocharaceus, số lượng loài ít thay đổi do sao biển kìm hãm sự phát triển của loài trai quần xã sinh vật này.\r\nIII. Loài sao biển P. ocharaceus có vai trò sinh thái quan trọng trong việc gìn giữ độ đa dạng của quần xã này.\r\nIV. Nếu loài nấm xâm lấn giết chết hầu hết các cá thể trai M. californianous ở vùng này thì có thể loài sao biển P. ocharaceus sẽ bị giảm.",
+          "options": [
+            {
+              "key": "A",
+              "text": "4.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "3.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q37",
+          "question": "Phân tích hình vẽ sơ đồ biến động của quần thể con mồi và quần thể vật ăn thịt, hãy cho biết các nhận định sau có bao nhiêu nhận định đúng:\r\n![image-20260506210853288](/images/image-20260506210853288.png)\r\nI. Quần thể N là con mồi, quần thể M là vật ăn thịt.\r\nII. Năm 1885, kích thước quần thể M và N đều ở mức tối đa.\r\nIII. Nếu loài N bị tuyệt diệt thì loài M sẽ giảm số lượng hoặc bị tuyệt diệt.\r\nIV. Số lượng cá thể của quần thể M bị số lượng cá thể của quần thể N khống chế và ngược lại.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q38",
+          "question": "Xét 3 loài chim ăn hạt sống trong cùng 1 khu vực. Ổ sinh thái dinh dưỡng thể hiện thông qua tỉ lệ phần trăm các loại kích thước mỏ của 3 loài trên được biểu diễn ở đồ thị sau:\r\n![image-20260506210914235](/images/image-20260506210914235.png)\r\nDựa vào đồ thị, dự đoán nào sau đây về 3 loài chim trên là đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Loài 1 và loài 3 trong khu vực này gần như không cạnh tranh nhau về thức ăn.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Số lượng cá thể loài 2 không ảnh hưởng đến số lượng cá thể loài 3 và ngược lại.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Loài 1 và loài 2 có hiện tượng cạnh tranh gay gắt nguồn thức ăn với nhau.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Các loài chim trong khu vực này có xu hướng mở rộng ổ sinh thái để tìm được nhiều thức ăn hơn.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "part2_trueFalse": [
+        {
+          "id": "p2_q1",
+          "question": "Đồ thị sau thể hiện tốc độ tăng trưởng 2 loài động vật nguyên sinh *Paramecium aurelia* và *Paramecium caudatum*. Hai loài này được nuôi chung trong một bể nuôi nhân tạo và cùng sử dụng chung một nguồn thức ăn là vi khuẩn.\r\n\r\n![image-20260506210931278](/images/image-20260506210931278.png)\r\n\r\nMỗi phát biểu sau đây đúng hay sai khi nói về thông tin trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Hai loài *Paramecium aurelia* và *Paramecium caudatum* thuộc mối quan hệ cạnh tranh loại trừ.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Loài *Paramecium caudatum* là loài có ưu thế cạnh tranh hơn so với loài *Paramecium aurelia*.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Hai loài *Paramecium aurelia* và *Paramecium caudatum* có cùng ổ sinh thái dinh dưỡng.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Khi nuôi cấy chung, mối quan hệ đối kháng giữa hai loài bắt đầu gay gắt từ sau ngày thứ tư khi nuôi cấy.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q2",
+          "question": "Sơ đồ sau thể hiện mối quan hệ giữa hai loài A và B trong quần xã. \r\n\r\n![image-20260506211024296](/images/image-20260506211024296.png)\r\n\r\nDấu (+) là loài được lợi, dấu (-) là loài bị hại thì sơ đồ trên biểu diễn mối quan hệ. Từng mối quan hệ sau đúng hay sai với sơ đồ trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Ức chế cảm nhiễm và vật chủ - vật kí sinh.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Vật chủ - vật kí sinh và vật ăn thịt – con mồi.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Cộng sinh, hợp tác và hội sinh.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Cạnh tranh và vật ăn thịt – con mồi.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q3",
+          "question": "Một nhà nghiên cứu tiến hành thí nghiệm để đánh giá khả năng sinh trưởng và phát triển của hai loài mọt, loài mọt gạo *T. castaneum* và *T. confusum* cùng sử dụng bột gạo làm thức ăn. \r\nThí nghiệm 1: Cho các cá thể của loài *T. castaneum* và *T. confusum* nuôi riêng ở hai môi trường chứa lượng bột gạo tương đương nhau (Hình 1).\r\nThí nghiệm 2: Cho các cá thể của loài *T. castaneum* và *T. confusum* nuôi chung ở môi trường sống có chứa bột gạo tương đương nhau (Hình 2).\r\n\r\n![image-20260506211050446](/images/image-20260506211050446.png)\r\n\r\nMỗi phát biểu sau đúng hay sai khi nói về thông tin trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Mối quan hệ sinh thái giữa hai loài mọt gạo *T. castaneum* và *T. confusum* là quan hệ ức chế – cảm nhiễm.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Số lượng cá thể loài *T. castaneum* cao hơn so với loài *T. confusum* khi nuôi riêng ở hai điều kiện môi trường khác nhau.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Khi nuôi chung loài *T. confusum* chiếm ưu thế có thể loại bỏ loài *T. castaneum* ra khỏi quần thể sau 100 tuần.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Tại tuần thứ 100 khi nuôi riêng số lượng cá thể loài *T. castaneum* suy giảm do nguồn thức ăn bị cạn kiệt.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "question": "Phân tích hình vẽ sơ đồ biến động của quần thể con mồi và quần thể vật ăn thịt, hãy cho biết mỗi nhận định sau đây là đúng hay sai?\r\n\r\n![image-20260506211131943](/images/image-20260506211131943.png)",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Quần thể N là con mồi, quần thể M là vật ăn thịt.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Năm 1885, kích thước quần thể M và N đều ở mức tối đa.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Nếu loài N bị tuyệt diệt thì loài M sẽ giảm số lượng hoặc bị tuyệt diệt.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Số lượng cá thể của quần thể M bị số lượng cá thể của quần thể N khống chế.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "question": "Nai sừng xám (một loài hươu) và bò bison (một loại bò rừng hoang dã lớn) đều là động vật ăn cỏ tìm kiếm thức ăn trong cùng một khu vực. Hình dưới đây mô tả những thay đổi trong quần thể của hai loài này trước và sau khi sói xuất hiện (loài săn mồi) trong môi trường sống của chúng.\r\n\r\n![image-20260506211152969](/images/image-20260506211152969.png)\r\n\r\nHãy cho biết mỗi nhận định sau là đúng hay sai?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Sự giảm kích thước của quần thể nai là kết quả của sự săn mồi của những con sói cũng như sự gia tăng kích thước của quần thể bò rừng đã tiêu thụ một phần lớn nguồn thức ăn trong đồng cỏ.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Sự biến động kích thước quần thể nai và bò rừng cho thấy những con sói chỉ ăn thịt nai sừng xám.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Có thể đã xảy ra sự trùng lặp ổ sinh thái về dinh dưỡng giữa quần thể nai và bò rừng.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Trong những năm đầu tiên có sự xuất hiện của sói, sự săn mồi cao của những con sói tập trung vào quần thể nai, do đó làm giảm áp lực săn mồi lên quần thể bò và làm tăng tỷ lệ sống sót của con non.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q6",
+          "question": "Hình dưới đây cho biết sự biến động về kích thước quần thể qua các năm của hai loài chim A và B. Xét các phát biểu về đặc điểm sinh học của 2 loài chim này với các nhận xét sau đây:\r\n\r\n![image-20260506211207881](/images/image-20260506211207881.png)\r\n\r\nMỗi nhận định nào sau đây đúng hay sai về đồ thị trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Loài A là loài có kích thước cơ thể lớn so với loài B.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Quần thể của loài A có kích thước lớn hơn của kích thước quần thể loài B.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Loài A có tiềm năng sinh học lớn hơn loài B.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Loài A thường có khả năng mẫn cảm với thay đổi của điều kiện môi trường hơn loài B.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "question": "Sơ đồ sau mô tả 4 loài sinh vật: A, B, C và D mà ổ sinh thái của chúng như sau:\r\n\r\n![image-20260506211237124](/images/image-20260506211237124.png)\r\n\r\nMỗi nhận định nào sau đây đúng hay sai về đồ thị trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Quan hệ giữa các loài A, B là quan hệ cạnh tranh khác loài.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Quan hệ cạnh tranh giữa loài A và loài B gay gắt hơn giữa loài C và D.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "So với sự cạnh tranh giữa A và B, loài C cạnh tranh với D có thể dẫn đến một trong hai loài bị tiêu diệt.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Loài A và loài C có thể sống chung trong một sinh cảnh.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "question": "Sự tăng trưởng kích thước của một quần thể cá rô được mô tả bằng đồ thị sau:\r\n\r\n![image-20260506211253089](/images/image-20260506211253089.png)\r\n\r\nMỗi nhận định nào sau đây đúng hay sai về đồ thị trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Từ đồ thị cho thấy quần thể cá rô tăng trưởng theo tiềm năng sinh học trong điều kiện môi trường bị giới hạn.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Tốc độ tăng trưởng của quần thể cá rô tăng dần và đạt giá trị tối đa tại điểm uốn, qua điểm uốn tốc độ tăng trưởng của quần thể giảm dần và dừng lại khi quần thể đạt kích thước tối đa.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Ở pha cân bằng, quần thể cá rô có số lượng cá thể ổn định và phù hợp với khả năng cung cấp nguồn sống của môi trường.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Quần thể có số lượng tăng lên rất nhanh trước điểm uốn nhờ quan hệ hỗ trợ diễn ra mạnh mẽ trong quần thể sinh vật.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q9",
+          "question": "Trong một khu rừng nhiệt đới, một đám cháy nhỏ đã làm chết các cây thân gỗ, tạo ra một khoảng trống có diện tích khoảng 150 m². Các nhà khoa học đã khoanh vùng khu vực này và không cho động vật xâm nhập, tiến hành nghiên cứu sự thay đổi số lượng loài thực vật trong khu vực theo thời gian, bắt đầu từ sau khi kết thúc cháy rừng. Kết quả nghiên cứu được mô tả trong đồ thị sau:\r\n\r\n![image-20260506211308811](/images/image-20260506211308811.png)\r\n\r\nMỗi nhận định nào sau đây đúng hay sai về đồ thị trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Số lượng loài thực vật tăng dần theo thời gian nghiên cứu.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Ở giai đoạn 1, ổ sinh thái của các loài thực vật có xu hướng tăng dần.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Ở giai đoạn 2, mức độ cạnh tranh giữa các loài ngày càng gay gắt.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Ở giai đoạn 3, một vài loài thực vật phát triển quá mạnh làm ức chế sự phát triển của loài khác.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q10",
+          "question": "Ốc bươu vàng (*Pomacea canaliculata*) là loài ngoại lai có nguồn gốc từ Nam Mĩ được du nhập tới Đài Loan và phát triển mạnh ra khắp Đông Nam Á trong đó có Việt Nam của chúng ta. \r\n- Hình A thể hiện sự biến động mức độ che phủ của một số loài điển hình và hàm lượng dinh dưỡng trong nước ở ruộng nước ngọt trước và sau khi có mặt ốc bươu vàng (vào ngày 0). \r\n- Hình B thể hiện mối quan hệ giữa mức độ giàu loài trong quần xã với số lượng ốc bươu vàng.\r\n\r\n![image-20260506211347682](/images/image-20260506211347682.png)\r\n\r\nMỗi nhận định nào sau đây đúng hay sai về đồ thị trên?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Nguồn dinh dưỡng của ốc bươu vàng chủ yếu đến từ bèo và tảo.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Sau khi có mặt ốc bươu vàng, sinh khối của thực vật phù du sẽ giảm xuống.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Ốc bươu vàng là loài đặc trưng trong quần xã ruộng nước ngọt.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Ốc bươu vàng gây nhiều thiệt hại cho sản xuất nông nghiệp cũng như môi trường sinh thái bản địa. *ĐÚNG",
+              "isTrue": false
+            }
+          ]
+        }
+      ],
+      "part3_shortAnswer": [
+        {
+          "id": "p3_q1",
+          "question": "Số lượng các loài trong quần xã được đặc trưng bởi các chỉ số: \r\n1. mật độ; \r\n2. độ đa dạng; \r\n3. độ nhiều; \r\n4. độ thường gặp; \r\n5. độ đặc trưng. \r\nTheo lý thuyết, có bao nhiêu chỉ số thể hiện độ đa dạng của quần xã?",
+          "correctAnswer": "4"
+        },
+        {
+          "id": "p3_q2",
+          "question": "Khi nói về nguyên nhân dẫn tới phân li ổ sinh thái:\r\n1. Mỗi loài ăn một loại thức ăn khác nhau.\r\n2. Mỗi loài kiếm ăn ở vị trí khác nhau.\r\n3. Mỗi loài kiếm ăn vào một khoảng thời gian khác nhau trong ngày.\r\n4. Cạnh tranh khác loài.\r\nTheo lý thuyết, có bao nhiêu phát biểu đúng về nguyên nhân dẫn tới phân li ổ sinh thái?",
+          "correctAnswer": "1"
+        },
+        {
+          "id": "p3_q3",
+          "question": "Sơ đồ sau mô tả ổ sinh thái dinh dưỡng của 2 loài A và B như sau:\r\n![image-20260506211430173](/images/image-20260506211430173.png)\r\nTheo lý thuyết, hình nào thể hiện mức độ cạnh tranh nhau về thức ăn giữa hai trên là cao nhất?",
+          "correctAnswer": "1"
+        },
+        {
+          "id": "p3_q4",
+          "question": "Hình sau thể hiện số lượng các loài trong một quần xã như sau:\r\n![image-20260506211445662](/images/image-20260506211445662.png)\r\nBiết rằng, độ đa dạng của quần xã được xác định bằng cách sử dụng chỉ số Shannon-Wiener: \r\n$H' = -\\sum_{i=1}^{S} (p_i \\cdot \\ln p_i)$ trong đó s là tổng số loài và $p_i$ là tỷ lệ của tất cả các cá thể trong mẫu thuộc về loài i.\r\nTheo lý thuyết, Độ đa dạng của quần xã trên là bao nhiêu?",
+          "correctAnswer": "1,202"
+        },
+        {
+          "id": "p3_q5",
+          "question": "Hình sau thể hiện ổ sinh thái về số lượng và kích thước thức ăn trong môi trường của 4 loài sinh vật, ta có các đồ thị trong hình sau:\r\n![image-20260506211504290](/images/image-20260506211504290.png)\r\nTheo lý thuyết, loài nào cạnh tranh nhiều nhất?",
+          "correctAnswer": "3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "BÀI 28 HỆ SINH THÁI",
+    "title": "BÀI 28 HỆ SINH THÁI",
+    "slug": "bai-28-he-sinh-thai",
+    "data": {
+      "part1_multipleChoice": [
+        {
+          "id": "p1_q1",
+          "question": "Khi xét về thành phần hữu sinh của hệ sinh thái, phát biểu nào sau đây là đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thực vật là nhóm sinh vật duy nhất có khả năng tổng hợp chất hữu cơ từ chất vô cơ.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Tất cả các loài vi khuẩn đều có khả năng phân giải các chất hữu cơ thành các chất vô cơ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Nấm có khả năng phân giải các chất hữu cơ thành các chất vô cơ.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Sinh vật tiêu thụ gồm các động vật ăn thực vật, động vật ăn động vật và vi khuẩn.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q2",
+          "question": "Khi xét về thành phần cấu trúc của hệ sinh thái, kết luận nào sau đây không đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Các loài động vật ăn thực vật được xếp vào nhóm sinh vật tiêu thụ.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Tất cả các loài vi sinh vật đều được xếp vào nhóm sinh vật phân giải.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật phân giải có vai trò phân giải các chất hữu cơ thành chất vô cơ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Các loài thực vật quang hợp được xếp vào nhóm sinh vật sản xuất.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q3",
+          "question": "Hệ sinh thái nhân tạo khác với hệ sinh thái tự nhiên ở đặc điểm nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái nhân tạo có khả năng tự điều chỉnh cao hơn so với hệ sinh thái tự nhiên do có sự can thiệp của con người.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái nhân tạo thường có chuỗi thức ăn ngắn và lưới thức ăn đơn giản hơn so với hệ sinh thái tự nhiên.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái nhân tạo có độ đa dạng sinh học cao hơn so với hệ sinh thái tự nhiên do được con người bổ sung thêm các loài sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái nhân tạo luôn là một hệ thống kín, còn hệ sinh thái tự nhiên là một hệ thống mở.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "question": "Người ta cần sử dụng biện pháp nào sau đây để duy trì trạng thái ổn định của hệ sinh thái nhân tạo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thường xuyên bổ sung năng lượng cho chúng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Thường xuyên khai thác sinh vật sản xuất từ chúng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Thường xuyên bổ sung sinh vật tiêu thụ cho chúng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Thường xuyên bổ sung sinh vật phân giải cho chúng.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "question": "Khi xét về hệ sinh thái tự nhiên, phát biểu nào sau đây không đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong các hệ sinh thái trên cạn, sinh vật sản xuất gồm thực vật và vi sinh vật tự dưỡng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái tự nhiên rất đa dạng, gồm hệ sinh thái trên cạn và hệ sinh thái dưới nước.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái tự nhiên được hình thành theo quy luật tự nhiên và có thể bị biến đổi dưới tác động của con người.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Các hệ sinh thái tự nhiên dưới nước chỉ có một loại chuỗi thức ăn được mở đầu bằng sinh vật sản xuất.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q6",
+          "question": "Phát biểu nào sau đây là không đúng đối với một hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong hệ sinh thái, năng lượng thất thoát qua mỗi bậc dinh dưỡng là rất lớn.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Trong hệ sinh thái, năng lượng biến đổi có tính tuần hoàn.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Trong hệ sinh thái, bậc dinh dưỡng càng cao, năng lượng càng giảm dần.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong hệ sinh thái, vật chất biến đổi diễn ra theo chu trình.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q7",
+          "question": "Có bao nhiêu hệ sinh thái sau đây thuộc hệ sinh thái nhân tạo?\r\nI. Đồng rêu vùng hàn đới và hoang mạc.\r\nII. Một khu rừng ngập mặn.\r\nIII. Một bể cá cảnh.\r\nIV. Rừng cao su và rừng cà phê ở Tây Nguyên.\r\nV. Ruộng trồng lúa gạo ST25.\r\nVI. Thành phố trực thuộc tỉnh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "5.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "question": "Hệ sinh thái bao gồm những thành phần nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quần xã sinh vật và sinh cảnh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Quần thể sinh vật và sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật sản xuất và sinh vật tiêu thụ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sinh vật tiêu thụ và sinh vật phân giải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "question": "Thành phần hữu sinh của hệ sinh thái bao gồm yếu tố nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sinh vật và sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Khí hậu và chất vô cơ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Chất vô cơ và xác sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Mối quan hệ giữa các sinh vật.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q10",
+          "question": "Trong hệ sinh thái nào sau đây có đặc điểm: năng lượng đầu vào chủ yếu là ánh sáng mặt trời, các chu trình chuyển hóa vật chất và có số lượng loài sinh vật phong phú?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái đồng ruộng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái nông nghiệp.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái rừng trồng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái biển.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q11",
+          "question": "Quá trình quang hợp diễn ra ở thành phần nào trong hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ở tất cả các loài sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Ở các loài động vật ăn cỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Ở các loài thực vật và tảo.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Ở các loài động vật ăn thịt.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "question": "Các hệ sinh thái trên cạn nào sau đây có tính đa dạng sinh học cao nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái thảo nguyên.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái nông nghiệp vùng đồng bằng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái hoang mạc.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái rừng mưa nhiệt đới.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "question": "Sự thay đổi khí hậu toàn cầu có thể ảnh hưởng đến sự phân bố của các loài sinh vật như thế nào trong hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Các loài sẽ di cư về phía xích đạo.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Các loài sẽ di cư về phía các cực.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Các loài sẽ không thay đổi vị trí phân bố.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sự phân bố của các loài một cách ngẫu nhiên.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q14",
+          "question": "Trong một hệ sinh thái rừng ôn đới, nhóm cây nào dưới đây có ảnh hưởng lớn nhất đến hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cây gỗ lớn.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Cây bụi nhỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Cỏ và cây thân thảo.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Địa y và rêu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q15",
+          "question": "Một hệ sinh thái với số lượng loài là 4 và năng suất sinh học là 150. Nếu số lượng loài tăng gấp đôi nhưng năng suất sinh học chỉ tăng lên 175, yếu tố nào sau đây có thể giải thích sự khác biệt đó?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tăng hiệu quả trong việc sử dụng tài nguyên.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Tăng cường cạnh tranh giữa các loài.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Giảm số lượng các loài thụ phấn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tăng mức độ ô nhiễm môi trường.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q16",
+          "question": "Yếu tố nào dưới đây không thuộc về nhóm nhân tố vô sinh trong hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ánh sáng mặt trời.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Nhiệt độ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Vi khuẩn.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Độ ẩm.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q17",
+          "question": "Yếu tố nào dưới đây không thuộc về nhóm nhân tố hữu sinh trong hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ánh sáng mặt trời.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Động vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Vi khuẩn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Thực vật.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q18",
+          "question": "Hệ sinh thái tự nhiên có khả năng tự điều chỉnh như thế nào khi bị ảnh hưởng bởi yếu tố ngoại cảnh?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tăng cường sự sinh sản của các loài",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Thay đổi cấu trúc và chức năng để thích nghi",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Loại bỏ hoàn toàn yếu tố ngoại cảnh",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tự động làm tăng nhiệt độ môi trường",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q19",
+          "question": "Trong hệ sinh thái, nhân tố sinh học bao gồm những yếu tố nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nước, đất, không khí",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Vi khuẩn, thực vật, động vật",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Ánh sáng mặt trời, nhiệt độ, độ ẩm",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Núi, sông, biển",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q20",
+          "question": "Hệ sinh thái nhân tạo là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái tự nhiên không bị con người tác động.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái được con người tạo ra và quản lý.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái dưới nước tự nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái chỉ bao gồm các loài thực vật.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q21",
+          "question": "Ví dụ nào dưới đây là một hệ sinh thái nhân tạo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rừng nhiệt đới.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Đồng cỏ tự nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trang trại nông nghiệp.",
+              "isCorrect": true
+            },
+            {
+              "key": "D",
+              "text": "Hồ tự nhiên.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q22",
+          "question": "Ví dụ nào sau đây không phải là hệ sinh thái nhân tạo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Vườn quốc gia.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Hồ nuôi cá.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Khu công nghiệp.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Khu đô thị.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q23",
+          "question": "Tại sao việc sử dụng phân bón và thuốc trừ sâu trong các hệ sinh thái nhân tạo có thể gây hại cho môi trường?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Gia tăng độ đa dạng loài trong hệ sinh thái.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Gây ô nhiễm nguồn nước, đất và không khí.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Giảm năng suất cây trồng",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Gia tăng số lượng loài côn trùng có lợi.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q24",
+          "question": "Làm thế nào để giảm thiểu tác động tiêu cực của hệ sinh thái nhân tạo lên môi trường tự nhiên?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tăng cường sử dụng phân bón hóa học.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Sử dụng các phương pháp canh tác bền vững.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Tăng cường phát triển các khu công nghiệp.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tăng cường khai thác tài nguyên thiên nhiên.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q25",
+          "question": "Hệ sinh thái nào sau đây cần phải bổ sung thêm nguồn vật chất để nâng cao hiệu quả sử dụng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái rừng mưa nhiệt đới.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái biển.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái sông, suối.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái nông nghiệp.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q26",
+          "question": "Đặc điểm nào sau đây không phải là đặc điểm của hệ sinh thái rừng nhiệt đới?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Khí hậu nóng ẩm, rừng rậm rạp, xanh tốt quanh năm, có nhiều tầng.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Ánh sáng mặt trời ít soi xuống mặt đất nên có nhiều loài cây ưa bóng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Động vật và thực vật đa dạng và phong phú, có nhiều động vật cỡ lớn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Khí hậu ít ổn định, vai trò của các nhân tố hữu sinh và các nhân tố vô sinh là như nhau.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q27",
+          "question": "Vì sao hệ sinh thái là một hệ thống sinh học hoàn chỉnh và tương đối ổn định?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Các sinh vật trong quần xã luôn cạnh tranh với nhau, đồng thời tác động với các thành phần vô sinh của sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Các sinh vật trong quần xã luôn tác động lẫn nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Các sinh vật trong quần xã luôn tác động với các thành phần vô sinh của sinh cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Các sinh vật trong quần xã luôn tác động lẫn nhau, đồng thời tác động lên các thành phần vô sinh của sinh cảnh.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q28",
+          "question": "Kiểu hệ sinh thái nào sau đây có đặc điểm: năng lượng mặt trời là năng lượng đầu vào chủ yếu, được cung cấp thêm một phần vật chất và có số lượng loài hạn chế:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hệ sinh thái biển.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Hệ sinh thái thành phố.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hệ sinh thái rừng mưa nhiệt đới.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hệ sinh thái nông nghiệp.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q29",
+          "question": "Khi xét về hệ sinh thái, có bao nhiêu phát biểu sau đây đúng?\r\nI. Trong hệ sinh thái, sinh vật sản xuất là nhóm có khả năng truyền năng lượng từ môi trường vô sinh vào quần xã.\r\nII. Bất kì sự gắn kết nào giữa các sinh vật với sinh cảnh đủ để tạo thành một chu trình sinh học hoàn chỉnh đều được xem là một hệ sinh thái.\r\nIII. Trong hệ sinh thái, sinh vật phân giải gồm chủ yếu là các loài sống dị dưỡng như vi khuẩn, nấm và một số vi sinh vật hóa tự dưỡng.\r\nIV. Hệ sinh thái tự nhiên thường có tính ổn định cao hơn nhưng thành phần loài kém đa dạng hơn hệ sinh thái nhân tạo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q30",
+          "question": "Có bao nhiêu phát biểu sau đây đúng khi xét về hệ sinh thái?\r\nI. Sinh vật đóng vai trò quan trọng nhất trong việc truyền năng lượng từ môi trường vô sinh vào chu trình dinh dưỡng là sinh vật sản xuất.\r\nII. Sự thất thoát năng lượng qua mỗi bậc dinh dưỡng trong hệ sinh thái là rất lớn.\r\nIII. Trong một hệ sinh thái, vật chất và năng lượng được truyền theo một chiều từ sinh vật sản xuất qua các bậc dinh dưỡng tới môi trường và không được tái sử dụng.\r\nIV. Vi khuẩn là nhóm sinh vật phân giải duy nhất, chúng có vai trò phân giải các chất hữu cơ thành các chất vô cơ.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "part2_trueFalse": [
+        {
+          "id": "p2_q1",
+          "question": "Khác hoàn toàn với bể cá thông thường chỉ bao gồm 2 thành phần chủ yếu là cá và nước, bể thủy sinh là một hệ môi trường sống toàn diện cho các loài thủy sinh vật dưới nước bao gồm: cá, tôm, tép, ốc, cây thủy sinh,... Bể thủy sinh chính là một hệ sinh thái thu nhỏ, có màu xanh tươi mát đặc trưng, các sinh vật tác động qua lại để cùng sinh sống và phát triển. Các nhận định dưới đây là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Bể thủy sinh có chứa các loài sinh vật sản xuất, sinh vật tiêu thụ và sinh vật phân giải.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Bể thủy sinh là một hệ sinh thái nhân tạo, được tạo ra và quản lí bởi con người.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Nguồn năng lượng chủ yếu cho bể thủy sinh thường là ánh sáng tự nhiên.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Cân bằng sinh học trong bể thủy sinh không cần sự can thiệp của con người.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q2",
+          "question": "Cân bằng sinh học (ecological balance) là trạng thái ổn định trong một hệ sinh thái, nơi các yếu tố hữu sinh (sinh vật sống) và vô sinh (môi trường vật lý, hóa họ",
+          "statements": [
+            {
+              "id": "c",
+              "text": "tương tác một cách hài hòa, duy trì sự tồn tại và phát triển của hệ sinh thái đó. Các nhận định dưới đây là ĐÚNG hay SAI?",
+              "isTrue": false
+            },
+            {
+              "id": "a",
+              "text": "Cân bằng sinh học trong một hệ sinh thái có nghĩa là mọi loài sinh vật trong hệ sinh thái đều có số lượng cá thể giống nhau.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Các quá trình sinh học trong hệ sinh thái như quang hợp và hô hấp không liên quan đến cân bằng sinh học.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Sự sụt giảm của các loài sinh vật sản xuất có thể gây ra mất cân bằng sinh học trong hệ sinh thái.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Cân bằng sinh học trong một hệ sinh thái tự nhiên gồm: sự bền vững của các nguồn tài nguyên tự nhiên, sự ổn định các loài sinh vật và quá trình phân giải các chất hữu cơ trong hệ sinh thái.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q3",
+          "question": "Cho các hệ sinh thái sau: 1. Rừng mưa nhiệt đới; 2. Ao nuôi cá; 3. Rừng trồng; 4. Công viên. Cho biết các nhận định dưới đây ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Rừng mưa nhiệt đới là hệ sinh thái nhân tạo.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Công viên, ao nuôi cá là hệ sinh thái nhân tạo.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Rừng mưa nhiệt đới có tính đa dạng sinh học cao hơn rừng trồng.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Rừng mưa nhiệt đới có khả năng điều hòa khí hậu và duy trì sự đa dạng sinh học.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "question": "Vườn quốc gia Cúc Phương được thành lập vào năm 1962, là khu bảo tồn thiên nhiên đầu tiên của Việt Nam. Khu vực này được chọn để bảo tồn các loài động vật, thực vật quý hiếm và các hệ sinh thái đặc trưng của khu vực. Rừng Cúc Phương có diện tích khoảng 22.408 ha, bao gồm nhiều loại hình địa hình như núi, thung lũng, và đồi núi đá vôi. Đây là một trong những khu vực có đa dạng sinh học cao nhất ở Việt Nam. Rừng Cúc Phương có hơn 2.000 loài thực vật, 122 loài bò sát và lưỡng cư, 135 loài thú, và hơn 300 loài chim. Nhiều loài trong số này là loài quý hiếm và đặc hữu, chẳng hạn như voọc quần đùi trắng và cây chò chỉ nghìn năm tuổi. Các nhận định dưới đây hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Rừng Cúc Phương là hệ sinh thái tự nhiên.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Rừng Cúc Phương có độ đa dạng sinh học cao.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Trung tâm cứu hộ động vật hoang dã tại Cúc Phương ít có vai trò đối với việc bảo tồn các loài động vật quý hiếm.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Đây là một dạng hệ sinh thái ít có khả năng tự điều chỉnh theo các quy luật tự nhiên.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "question": "Biểu đồ về tác động của đa dạng loài đến chức năng hệ sinh thái như sau:\r\n\r\n![image-20260506210154102](/images/image-20260506210154102.png)\r\n\r\n\r\nCho biết các nhận định dưới đây là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Khi số lượng loài trong hệ sinh thái tăng sẽ làm tăng năng suất sinh học.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Khả năng chống chịu của hệ sinh thái giảm khi số lượng loài tăng từ 4 đến 16.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Biểu đồ cho thấy mức độ cung cấp dịch vụ hệ sinh thái sẽ tăng khi số lượng loài tăng.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Biểu đồ minh họa mối quan hệ giữa số lượng loài và chỉ số chức năng hệ sinh thái nhằm nhấn mạnh: Đa dạng loài quan trọng để duy trì và cải thiện các chức năng hệ sinh thái. *ĐÚNG",
+              "isTrue": false
+            }
+          ]
+        }
+      ],
+      "part3_shortAnswer": [
+        {
+          "id": "p3_q1",
+          "question": "Trong hệ sinh thái, thành phần hữu sinh của hệ sinh thái gồm: Sinh vật sản xuất, sinh vật tiêu thụ và sinh vật phân giải. Sự có mặt của bao nhiêu nhóm sinh vật là cần thiết để duy trì một hệ sinh thái ổn định và bền vững?",
+          "correctAnswer": "3"
+        },
+        {
+          "id": "p3_q2",
+          "question": "Một giọt nước lấy từ ao hồ có thể được coi là một hệ sinh thái vì nó chứa đầy đủ các thành phần và chức năng cần thiết để duy trì sự sống và sự cân bằng sinh thái. Vậy thành phần hữu sinh có bao nhiêu nhóm sinh vật?",
+          "correctAnswer": "3"
+        },
+        {
+          "id": "p3_q3",
+          "question": "Cho các hệ sinh thái sau:\r\nI. Rừng rụng lá ôn đới.\r\nII. Rừng ngập mặn mũi Cà Mau.\r\nIII. Một bể cá cảnh.\r\nIV. Rừng mưa nhiệt đới Cúc Phương - Ninh Bình.\r\nV. Rừng cà phê ở Tây Nguyên.\r\nVI. Đồng ruộng.\r\nVII. Thành phố.\r\nCó bao nhiêu hệ sinh thái thuộc hệ sinh thái nhân tạo?",
+          "correctAnswer": "4"
+        },
+        {
+          "id": "p3_q4",
+          "question": "Cho các hệ sinh thái sau:\r\nI. Rừng rụng lá ôn đới.\r\nII. Rừng ngập mặn mũi Cà Mau.\r\nIII. Một bể cá cảnh.\r\nIV. Rừng mưa nhiệt đới Cúc Phương - Ninh Bình.\r\nV. Rừng cà phê ở Tây Nguyên.\r\nVI. Đồng ruộng.\r\nVII. Thành phố.\r\nCó bao nhiêu hệ sinh thái thuộc hệ sinh thái tự nhiên?",
+          "correctAnswer": "3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "BÀI 29. TRAO ĐỔI CHẤT VÀ CHUYỂN HÓA NĂNG LƯỢNG TRONG HỆ SINH THÁI",
+    "title": "BÀI 29. TRAO ĐỔI CHẤT VÀ CHUYỂN HÓA NĂNG LƯỢNG TRONG HỆ SINH THÁI",
+    "slug": "bai-29-trao-doi-chat-va-chuyen-hoa-nang-luong-trong-he-sinh-thai",
+    "data": {
+      "part1_multipleChoice": [
+        {
+          "id": "p1_q1",
+          "question": "Chuỗi thức ăn là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Là một dãy gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Là một dãy gồm nhiều loài sinh vật có cùng nơi ở với nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Là một dãy gồm nhiều loài sinh vật có cùng nguồn thức ăn với nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Là một dãy gồm nhiều loài sinh vật không cùng nguồn thức ăn với nhau.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q2",
+          "question": "Loại tháp nào sau đây được xây dựng dựa trên số năng lượng được tích lũy trên 1 đơn vị diện tích hay thể tích, trong 1 đơn vị thời gian ở mỗi bậc dinh dưỡng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tháp năng lượng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Tháp tuổi.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Tháp số lượng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tháp sinh khối.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q3",
+          "question": "Giả sử 1 lưới thức ăn được mô tả như sau: Thỏ, chuột, châu chấu và chim sẻ đều ăn thực vật; châu chấu là thức ăn của chim sẻ; cáo ăn thỏ và chim sẻ; cú mèo ăn chuột. Phát biểu nào sau đây đúng về lưới thức ăn này?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cáo và cú mèo có ổ sinh thái về dinh dưỡng khác nhau.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Chuỗi thức ăn dài nhất gồm có 5 mắt xích.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Cú mèo là sinh vật tiêu thụ bậc 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Có 5 loài cùng thuộc bậc dinh dưỡng cấp 2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "question": "Khi nói về tháp sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tháp số lượng bao giờ cũng có dạng đáy lớn đỉnh nhỏ.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Tháp số lượng được xây dựng dựa trên số lượng cá thể của mỗi bậc dinh dưỡng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Tháp sinh khối không phải lúc nào cũng có đáy lớn đỉnh nhỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tháp năng lượng bao giờ cũng có dạng đáy lớn đỉnh nhỏ.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "question": "Mối quan hệ quan trọng nhất đảm bảo tính gắn bó giữa các loài trong quần xã sinh vật là quan hệ",
+          "options": [
+            {
+              "key": "A",
+              "text": "hợp tác.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "dinh dưỡng.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "sinh sản.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "cạnh tranh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q6",
+          "question": "Ở mỗi bậc dinh dưỡng của chuỗi thức ăn, năng lượng bị tiêu hao nhiều nhất qua",
+          "options": [
+            {
+              "key": "A",
+              "text": "hoạt động hô hấp.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "hoạt động quang hợp.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "quá trình sinh tổng hợp các chất.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "quá trình bài tiết các chất thải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q7",
+          "question": "Nhóm sinh vật có mức năng lượng lớn nhất trong 1 hệ sinh thái là",
+          "options": [
+            {
+              "key": "A",
+              "text": "sinh vật sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "sinh vật phân huỷ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "động vật ăn thực vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "động vật ăn thịt.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "question": "Khi nói về chuỗi và lưới thức ăn, phát biểu nào sau đây là đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chuỗi và lưới thức ăn phản ánh mối quan hệ dinh dưỡng giữa các loài trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong 1 lưới thức ăn, mỗi loài chỉ tham gia vào 1 chuỗi thức ăn nhất định.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong 1 chuỗi thức ăn, mỗi loài có thể thuộc nhiều mắt xích khác nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Quần xã càng đa dạng về thành phần loài thì lưới thức ăn càng đơn giản.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "question": "Sơ đồ nào sau đây mô tả đúng về 1 chuỗi thức ăn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cây ngô → Sâu ăn lá ngô → Nhái → Rắn hổ mang → Diều hâu.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Cây ngô → Nhái → Sâu ăn lá ngô → Rắn hổ mang → Diều hâu.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Cây ngô → Rắn hổ mang → Sâu ăn lá ngô → Nhái → Diều hâu.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Cây ngô → Nhái → Rắn hổ mang → Sâu ăn lá ngô → Diều hâu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q10",
+          "question": "Một lưới thức ăn trên đồng cỏ được mô tả như sau: thỏ, chuột đồng, châu chấu và chim sẻ đều ăn cỏ; châu chấu là thức ăn của chim sẻ; cáo ăn thỏ và chim sẻ; cú mèo ăn chuột đồng. Trong lưới thức ăn này, sinh vật nào thuộc bậc dinh dưỡng cấp cao nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cáo.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Châu chấu.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Chim sẻ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Cú mèo.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q11",
+          "question": "Cho chuỗi thức ăn: Tảo lục đơn bào → tôm → cá rô → chim bói cá. Trong chuỗi thức ăn này, cá rô thuộc bậc dinh dưỡng",
+          "options": [
+            {
+              "key": "A",
+              "text": "cấp 3.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "cấp 2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "cấp 1.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "cấp 4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "question": "Trong hệ sinh thái, tất cả các dạng năng lượng sau khi đi qua chuỗi thức ăn đều được",
+          "options": [
+            {
+              "key": "A",
+              "text": "giải phóng vào không gian dưới dạng nhiệt.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "tái sử dụng cho các hoạt động sống của sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "trở lại môi trường ở dạng ban đầu.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "tích tụ ở sinh vật phân giải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "question": "Trong hệ sinh thái, quá trình sử dụng năng lượng mặt trời để tổng hợp các chất hữu cơ được thực hiện bởi nhóm",
+          "options": [
+            {
+              "key": "A",
+              "text": "sinh vật sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "sinh vật tiêu thụ bậc 1.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sinh vật tiêu thụ bậc 2.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sinh vật phân giải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q14",
+          "question": "Khi nói về chuỗi thức ăn và lưới thức ăn, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong chuỗi thức ăn, bậc dinh dưỡng cao nhất luôn có sinh khối lớn nhất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Quần xã sinh vật có độ đa dạng càng cao thì lưới thức ăn trong quần xã càng phức tạp.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong lưới thức ăn, 1 loài sinh vật có thể là mắt xích của nhiều chuỗi thức ăn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Lưới thức ăn của quần xã rừng mưa nhiệt đới thường phức tạp hơn lưới thức ăn của quần xã thảo nguyên.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q15",
+          "question": "Khi nói về lưới thức ăn, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong lưới thức ăn, 1 loài có thể tham gia vào nhiều chuỗi thức ăn khác nhau.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Lưới thức ăn của quần xã rừng mưa nhiệt đới thường đơn giản hơn lưới thức ăn của quần xã thảo nguyên.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Quần xã sinh vật càng đa dạng về thành phần loài thì lưới thức ăn càng đơn giản.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong diễn thế nguyên sinh, lưới thức ăn ở quần xã đỉnh cực có cấu trúc đơn giản hơn lưới thức ăn ở quần xã tiên phong.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q16",
+          "question": "Giả sử 1 lưới thức ăn đơn giản gồm các sinh vật được mô tả như sau: cào cào, thỏ và nai ăn thực vật; chim sâu ăn cào cào; báo ăn thỏ và nai; mèo rừng ăn thỏ và chim sâu. Trong lưới thức ăn này, các sinh vật cùng thuộc bậc dinh dưỡng cấp 2 là",
+          "options": [
+            {
+              "key": "A",
+              "text": "cào cào, thỏ, nai.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "cào cào, chim sâu, báo.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "chim sâu, mèo rừng, báo.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "chim sâu, thỏ, mèo rừng.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q17",
+          "question": "Trong chuỗi thức ăn trên cạn khởi đầu bằng cây xanh, mắt xích có sinh khối lớn nhất là sinh vật",
+          "options": [
+            {
+              "key": "A",
+              "text": "sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "tiêu thụ bậc ba.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "tiêu thụ bậc 1.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "tiêu thụ bậc hai.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q18",
+          "question": "Trong các hệ sinh thái sau đây, hệ sinh thái có năng suất sinh vật sơ cấp cao nhất là",
+          "options": [
+            {
+              "key": "A",
+              "text": "rừng mưa nhiệt đới.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "rừng ôn đới.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "rừng thông phương Bắc.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "savan.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q19",
+          "question": "Mắt xích có mức năng lượng cao nhất trong 1 chuỗi thức ăn là",
+          "options": [
+            {
+              "key": "A",
+              "text": "sinh vật sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "sinh vật tiêu thụ bậc ba.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sinh vật tiêu thụ bậc hai.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sinh vật tiêu thụ bậc 1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q20",
+          "question": "Quần xã sinh vật nào sau đây thường có lưới thức ăn phức tạp nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quần xã rừng mưa nhiệt đới.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Quần xã rừng lá kim phương Bắc.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Quần xã rừng rụng lá ôn đới.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Quần xã đồng rêu hàn đới.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q21",
+          "question": "Sơ đồ nào sau đây mô tả đúng về 1 chuỗi thức ăn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lúa → chuột → rắn → diều hâu.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Lúa → chuột → diều hâu → rắn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Lúa → diều hâu → chuột → rắn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Lúa → rắn → chuột → diều hâu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q22",
+          "question": "Cho các thông tin ở bảng dưới đây:\r\n| Bậc dinh dưỡng                                               | Năng suất sinh học |\r\n| ------------------------------------------------------------ | ------------------ |\r\n| Cấp 1                                                        | 2,2 x 10^6 calo    |\r\n| Cấp 2                                                        | 1,1 x 10^4 calo    |\r\n| Cấp 3                                                        | 1,25 x 10^3 calo   |\r\n| Cấp 4                                                        | 0,5 x 10^2 calo    |\r\nHiệu suất sinh thái giữa bậc dinh dưỡng cấp 2 so với bậc dinh dưỡng cấp 1 và giữa bậc dinh dưỡng cấp 4 so với bậc dinh dưỡng cấp 3 lần lượt là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "0,5% và 4%.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "0,5% và 0,4%.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "2% và 2,5%.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "0,5% và 5%.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q23",
+          "question": "Trong hệ sinh thái, nhóm sinh vật nào sau đây có vai trò truyền năng lượng từ môi trường vô sinh vào quần xã sinh vật?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sinh vật sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Sinh vật tiêu thụ bậc 1.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật tiêu thụ bậc 2.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sinh vật phân giải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q24",
+          "question": "Phát biểu nào sau đây là đúng khi nói về sản lượng sinh vật sơ cấp tinh (sản lượng thực tế để nuôi các nhóm sinh vật dị dưỡng)?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sản lượng sơ cấp tinh bằng sản lượng sơ cấp thô trừ đi phần hô hấp của thực vật.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong sinh quyển, tổng sản lượng sơ cấp tinh được hình thành trong các hệ sinh thái dưới nước lớn hơn tổng sản lượng sơ cấp tinh được hình thành trong các hệ sinh thái trên cạn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Những hệ sinh thái có sức sản xuất cao nhất, tạo ra sản lượng sơ cấp tinh lớn nhất là các hoang mạc và vùng nước của đại dương thuộc vĩ độ thấp.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Những hệ sinh thái như hồ nông, hệ cửa sông, rạn san hô và rừng ẩm thường xanh nhiệt đới thường có sản lượng sơ cấp tinh thấp do có sức sản xuất thấp.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q25",
+          "question": "Sản lượng sinh vật thứ cấp trong hệ sinh thái được tạo ra từ",
+          "options": [
+            {
+              "key": "A",
+              "text": "sinh vật sản xuất.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "sinh vật phân huỷ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sinh vật sản xuất và sinh vật phân huỷ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sinh vật tiêu thụ.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "id": "p1_q26",
+          "question": "Khi nói về chuỗi và lưới thức ăn, phát biểu nào sau đây là đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Khi thành phần loài trong quần xã thay đổi thì cấu trúc lưới thức ăn cũng bị thay đổi.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong 1 quần xã, mỗi loài sinh vật chỉ tham gia vào 1 chuỗi thức ăn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong 1 lưới thức ăn, mỗi bậc dinh dưỡng chỉ có 1 loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tất cả các chuỗi thức ăn đều được bắt đầu từ sinh vật sản xuất.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q27",
+          "question": "Cho chuỗi thức ăn: Cây ngô → Sâu ăn lá ngô → Nhái → Rắn hổ mang → Diều hâu. Trong chuỗi thức ăn này, những mắt xích vừa là nguồn thức ăn của mắt xích phía sau, vừa có nguồn thức ăn là mắt xích phía trước là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "sâu ăn lá ngô, nhái, rắn hổ mang.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "cây ngô, sâu ăn lá ngô, diều hâu.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "cây ngô, sâu ăn lá ngô, nhái.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "nhái, rắn hổ mang, diều hâu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q28",
+          "question": "Phát biểu nào sau đây là đúng về hệ sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sự thất thoát năng lượng qua mỗi bậc dinh dưỡng trong hệ sinh thái là rất lớn.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong hệ sinh thái, năng lượng được sử dụng lại, còn vật chất thì không.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong hệ sinh thái, hiệu suất sinh thái tăng dần qua mỗi bậc dinh dưỡng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong hệ sinh thái, nhóm loài có sinh khối lớn nhất là sinh vật thuộc bậc dinh dưỡng cao nhất.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q29",
+          "question": "Khi nói về các thành phần hữu sinh của hệ sinh thái, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nấm hoại sinh là 1 trong số các nhóm sinh vật có khả năng phân giải chất hữu cơ thành các chất vô cơ.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Sinh vật kí sinh và hoại sinh đều được coi là sinh vật phân giải.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật sản xuất bao gồm thực vật, tảo và tất cả các loài vi khuẩn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sinh vật tiêu thụ bậc 1 thuộc bậc dinh dưỡng cấp 1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q30",
+          "question": "Trong 1 hệ sinh thái,",
+          "options": [
+            {
+              "key": "A",
+              "text": "năng lượng thất thoát qua mỗi bậc dinh dưỡng của chuỗi thức ăn là rất lớn.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "sự chuyển hóa vật chất diễn ra không theo chu trình.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sự biến đổi năng lượng diễn ra theo chu trình.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "năng lượng của sinh vật sản xuất bao giờ cũng nhỏ hơn năng lượng của sinh vật tiêu thụ nó.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q31",
+          "question": "Hình tháp sinh thái luôn có dạng chuẩn (đáy tháp rộng ở dưới, đỉnh tháp hẹp ở trên) là hình tháp biểu diễn",
+          "options": [
+            {
+              "key": "A",
+              "text": "năng lượng của các bậc dinh dưỡng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "số lượng cá thể của các bậc dinh dưỡng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sinh khối và số lượng cá thể của các bậc dinh dưỡng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sinh khối của các bậc dinh dưỡng.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q32",
+          "question": "Cho 1 lưới thức ăn có sâu ăn hạt ngô, châu chấu ăn lá ngô, chim chích và ếch xanh đều ăn châu chấu và sâu, rắn hổ mang ăn ếch xanh. Trong lưới thức ăn trên, sinh vật tiêu thụ bậc 2 là",
+          "options": [
+            {
+              "key": "A",
+              "text": "chim chích và ếch xanh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "rắn hổ mang và chim chích.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "rắn hổ mang.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "châu chấu và sâu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q33",
+          "question": "Phát biểu nào sau đây đúng với tháp sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Các loại tháp sinh thái không phải bao giờ cũng có đáy lớn, đỉnh hướng lên trên.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Các loại tháp sinh thái bao giờ cũng có đáy lớn, đỉnh hướng lên trên.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Tháp khối lượng bao giờ cũng có dạng chuẩn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tháp số lượng bao giờ cũng có dạng chuẩn.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q34",
+          "question": "Sinh vật nào sau đây thuộc mắt xích mở đầu trong chuỗi thức ăn?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cây mía.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Rắn hổ mang.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Ếch đồng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sâu ăn lá mía.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q35",
+          "question": "Một quần xã sinh vật có độ đa dạng càng cao thì",
+          "options": [
+            {
+              "key": "A",
+              "text": "lưới thức ăn của quần xã càng phức tạp.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "số lượng cá thể của mỗi loài càng lớn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "số lượng loài trong quần xã càng giảm.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "ổ sinh thái của mỗi loài càng rộng.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q36",
+          "question": "Khi nói về chuỗi thức ăn trong hệ sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tất cả các chuỗi thức ăn của hệ sinh thái trên cạn đều khởi đầu bằng sinh vật tự dưỡng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Chuỗi thức ăn của hệ sinh thái trên cạn không kéo dài quá 6 mắt xích.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong 1 chuỗi thức ăn, mỗi mắt xích chỉ có 1 loài sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Chuỗi thức ăn thể hiện mối quan hệ dinh dưỡng giữa các loài trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q37",
+          "question": "Cho chuỗi thức ăn:\r\nCây ngô → Sâu ăn lá ngô → Nhái → Rắn hổ mang → Diều hâu. Trong chuỗi thức ăn này, rắn hổ mang là sinh vật tiêu thụ",
+          "options": [
+            {
+              "key": "A",
+              "text": "bậc 3.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "bậc 4.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "bậc 5.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "bậc 2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q38",
+          "question": "Trong các hệ sinh thái, khi chuyển từ bậc dinh dưỡng thấp lên bậc dinh dưỡng cao liền kề, trung bình năng lượng bị thất thoát tới 90%. Phần lớn năng lượng thất thoát đó bị tiêu hao",
+          "options": [
+            {
+              "key": "A",
+              "text": "qua hô hấp (năng lượng tạo nhiệt, vận động cơ thể,...).",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "qua các chất thải (ở động vật qua phân và nước tiểu).",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "do hoạt động của nhóm sinh vật phân giải.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "do các bộ phận rơi rụng (rụng lá, rụng lông, lột xác ở động vật).",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q39",
+          "question": "Khi nói về quần xã sinh vật, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quần xã càng đa dạng về thành phần loài thì lưới thức ăn càng đơn giản.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Phân bố cá thể trong không gian của quần xã tùy thuộc vào nhu cầu sống của từng loài.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật trong quần xã luôn tác động lẫn nhau đồng thời tác động qua lại với môi trường.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Mức độ đa dạng của quần xã được thể hiện qua số lượng các loài và số lượng cá thể của mỗi loài.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q40",
+          "question": "Hiệu suất sinh thái là",
+          "options": [
+            {
+              "key": "A",
+              "text": "tỉ lệ phần trăm chuyển hóa vật chất giữa các bậc dinh dưỡng trong hệ sinh thái.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "tỉ lệ phần trăm chuyển hóa năng lượng giữa các bậc dinh dưỡng trong hệ sinh thái.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "tỉ lệ phần trăm năng lượng bị tiêu hao giữa các bậc dinh dưỡng trong hệ sinh thái.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "tỉ lệ phần trăm năng lượng chuyển hóa từ môi trường vào quần xã sinh vật trong hệ sinh thái.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q41",
+          "question": "Khi nói về lưới thức ăn trong hệ sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong lưới thức ăn, mỗi loài sinh vật chỉ thuộc 1 bậc dinh dưỡng nhất định.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong 1 chuỗi thức ăn, 1 mắt xích chỉ có 1 loài sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Quần xã sinh vật có độ đa dạng càng cao thì lưới thức ăn trong quần xã càng phức tạp.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong lưới thức ăn, 1 loài sinh vật có thể tham gia vào nhiều chuỗi thức ăn khác nhau.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q42",
+          "question": "Trong 1 hệ sinh thái trên cạn, sản lượng sinh vật thứ cấp được hình thành bởi nhóm sinh vật nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sinh vật sản xuất, chủ yếu là thực vật.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Sinh vật phân giải, chủ yếu là nấm và vi khuẩn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật dị dưỡng, chủ yếu là động vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Thực vật tự dưỡng, chủ yếu là thực vật có hoa.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q43",
+          "question": "Khi nói về tháp sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tháp sinh khối của quần xã sinh vật nổi trong nước thường mất cân đối do sinh khối của sinh vật tiêu thụ nhỏ hơn sinh khối của sinh vật sản xuất.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong tháp năng lượng, năng lượng vật làm mồi bao giờ cũng đủ đến dư thừa để nuôi vật tiêu thụ mình.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Tháp số lượng và tháp sinh khối có thể bị biến dạng, tháp trở nên mất cân đối.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Tháp năng lượng luôn có dạng chuẩn, đáy lớn, đỉnh nhỏ.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q44",
+          "question": "Trong hệ sinh thái, tất cả các dạng năng lượng được sinh vật hấp thụ cuối cùng đều",
+          "options": [
+            {
+              "key": "A",
+              "text": "giải phóng vào không gian dưới dạng nhiệt năng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "chuyển đến bậc dinh dưỡng tiếp theo.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sử dụng cho các hoạt động sống của sinh vật.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "chuyển cho các sinh vật phân giải.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q45",
+          "question": "Khi xây dựng chuỗi và lưới thức ăn trong quần xã sinh vật, người ta căn cứ vào",
+          "options": [
+            {
+              "key": "A",
+              "text": "mối quan hệ dinh dưỡng giữa các loài sinh vật trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "mối quan hệ sinh sản giữa các loài sinh vật trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "vai trò của các loài sinh vật trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "mối quan hệ về nơi ở của các loài sinh vật trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q46",
+          "question": "Trong lưới thức ăn của 1 quần xã sinh vật trên cạn, bậc dinh dưỡng nào sau đây có sinh khối lớn nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bậc dinh dưỡng cấp 1.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Bậc dinh dưỡng cấp cao nhất.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Bậc dinh dưỡng cấp 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Bậc dinh dưỡng cấp 2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q47",
+          "question": "Giả sử 1 chuỗi thức ăn trong quần xã sinh vật được mô tả bằng sơ đồ sau: Cỏ → Sâu → Gà → Cáo → Hổ. Trong chuỗi thức ăn này, sinh vật tiêu thụ bậc 3 là",
+          "options": [
+            {
+              "key": "A",
+              "text": "cáo.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "hổ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "gà.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "thỏ.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q48",
+          "question": "Trong 1 chuỗi thức ăn mở đầu bằng sinh vật sản xuất, sinh vật nào sau đây thuộc bậc dinh dưỡng cấp 2?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sinh vật tiêu thụ bậc 1.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Sinh vật sản xuất.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật tiêu thụ bậc 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sinh vật tiêu thụ bậc 2.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q49",
+          "question": "Trong 1 quần xã sinh vật trên cạn, châu chấu và thỏ sử dụng cỏ làm nguồn thức ăn; châu chấu là nguồn thức ăn của gà và chim sâu. Chim sâu, gà và thỏ đều là nguồn thức ăn của trăn. Khi phân tích mối quan hệ dinh dưỡng giữa các loài trong quần xã trên, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trăn có thể thuộc bậc dinh dưỡng cấp 3 hoặc bậc dinh dưỡng cấp 4.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Gà và chim sâu đều là sinh vật tiêu thụ bậc 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trăn là sinh vật có sinh khối lớn nhất.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Châu chấu và thỏ có ổ sinh thái dinh dưỡng khác nhau.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q50",
+          "question": "Khi nói về bậc dinh dưỡng trong hệ sinh thái, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong 1 lưới thức ăn, các loài có cùng mức dinh dưỡng hợp thành 1 bậc dinh dưỡng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong 1 chuỗi thức ăn, 1 loài có thể thuộc nhiều bậc dinh dưỡng khác nhau.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sinh vật ở bậc dinh dưỡng cao nhất là mắt xích khởi đầu của chuỗi thức ăn.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Bậc dinh dưỡng cấp 1 gồm các loài động vật ăn thực vật.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "part2_trueFalse": [
+        {
+          "id": "p2_q1",
+          "question": "Khi nói về trao đổi chất và chuyển hóa năng lượng trong hệ sinh thái, mỗi nhận định sau đây là Đúng hay Sai?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Năng lượng cung cấp cho toàn bộ sinh vật trên Trái Đất chủ yếu đến từ nguồn năng lượng ánh sáng mặt trời.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Trong hệ sinh thái, năng lượng được chuyển hóa theo một chiều với đầu vào là quang năng và đầu ra là nhiệt năng.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Trong hệ sinh thái, vật chất được lưu chuyển tuần hoàn từ chất vô cơ thành hữu cơ và ngược lại.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Trao đổi vật chất trong quần xã được thể hiện qua cấu trúc của chuỗi thức ăn, lưới thức ăn và bậc dinh dưỡng.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q2",
+          "question": "Khi nói về trao đổi chất và chuyển hóa năng lượng trong hệ sinh thái, mỗi nhận định sau đây là Đúng hay Sai?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Trong một lưới thức ăn, mắt xích chung là loài tham gia vào nhiều chuỗi thức ăn, có thể tiêu thụ nhiều mắt xích và có thể bị nhiều mắt xích tiêu thụ.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Quần xã có số loài càng lớn thì lưới thức ăn càng phức tạp và cấu trúc quần xã càng ổn định.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Bậc dinh dưỡng lớn nhất là sinh vật đầu chuỗi thức ăn.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Bậc dinh dưỡng của một loài cho biết mối tương quan về năng lượng của loài đó so với các loài khác trong toàn bộ chuỗi thức ăn.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q3",
+          "question": "Khi nói về dòng năng lượng trong hệ sinh thái, mỗi nhận định sau đây là Đúng hay Sai?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Hiệu suất sinh thái càng cao thì mức thất thoát năng lượng càng thấp.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Khoảng 50% bức xạ mặt trời chiếu vào Trái Đất bị hấp thụ, tán xạ hoặc phản xạ bởi mây và bụi trong khí quyển.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Trong quá trình truyền năng lượng giữa các bậc dinh dưỡng, phần lớn năng lượng được tích luỹ thành sinh khối ở bậc dinh dưỡng cao hơn.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Hiệu suất sinh thái giữa các bậc dinh dưỡng thường rất thấp, năng lượng thất thoát qua các bậc dinh dưỡng là rất lớn.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "question": "Nghiên cứu nồng độ DDT trong một chuỗi thức ăn cho thấy nồng độ chất độc thay đổi qua mỗi mắt xích theo hình tháp sau đây (ppm = phần triệu). Mỗi phát biểu dưới đây là Đúng hay Sai?\r\n\r\n*![image-20260506205018443](/images/image-20260506205018443.png)*",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Sự thay đổi nồng độ DDT giữa bồ nông và cá gấp 2,5 lần so với sự thay đổi nồng độ DDT giữa cá và tôm.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Hiện tượng tăng nồng độ chất độc qua mỗi mắt xích của chuỗi thức ăn cho thấy hiện tượng khuếch đại sinh học.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Qua mỗi mắt xích lượng chất độc được tích lũy càng nhiều.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Con người sử dụng các loài càng gần sinh vật sản xuất càng an toàn trước các chất độc tích lũy.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "question": "Hình bên mô tả tháp sinh khối của hai hệ sinh thái A và B. Mỗi phát biểu dưới đây là Đúng hay Sai?\r\n\r\n![image-20260506205041242](/images/image-20260506205041242.png)",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Dựa vào hai tháp bên có thể xác định được sự thất thoát năng lượng khi chuyển từ bậc dinh dưỡng thấp lên bậc dinh dưỡng cao.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Sinh vật sản xuất ở tháp A có kích thước nhỏ, chu kì sống ngắn, sinh sản nhanh.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "B có thể là hệ sinh thái trên cạn hoặc cũng có thể là hệ sinh thái dưới nước.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Nếu hiệu suất sinh thái giữa các bậc dinh dưỡng ở tháp B đạt 10% thì sản lượng sơ cấp tinh cần 20.000 gC/m để thu được sinh khối 20 gC/m ở loài chủ chốt.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q6",
+          "question": "Hình dưới đây thể hiện một phần lưới thức ăn ở vịnh Chesapeak.\r\n\r\n*![image-20260506205058470](/images/image-20260506205058470.png)*\r\n\r\nCua (Callinectes sapidus) là loài ăn tạp. Rùa biển là loài quý hiếm thuộc danh sách cần được bảo tồn. Hệ thống sinh học ở vịnh được khống chế theo mô hình từ trên xuống. Điều gì sẽ xảy ra đối với phần lưới thức ăn nói trên khi cua bị cấm khai thác. Mỗi phát biểu dưới đây là Đúng hay Sai?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Số lượng ấu thể cá nhỏ tăng.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Số lượng rong lươn giảm.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Số lượng sứa, cá vược kẻ sọc tăng.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Số lượng cua tăng, nguồn thức ăn khan hiếm, chúng có thể ăn thịt đồng loại.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "question": "Hình vẽ dưới đây mô tả một tháp sinh thái về năng lượng của 4 loài sinh vật trong 1 chuỗi thức ăn của một hệ sinh thái, các chữ cái A,B,C,D lần lượt là bậc dinh dưỡng của các loài. Khi nói về tháp sinh thái này, mỗi nhận định sau là đúng hay sai?\r\n\r\n![image-20260506205213878](/images/image-20260506205213878.png)",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Các cá thể ở bậc dinh dưỡng A nhận năng lượng trực tiếp từ Mặt Trời.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Các cá thể ở bậc dinh dưỡng C là loài động vật ăn thịt.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Các cá thể ở bậc dinh dưỡng C nhận năng lượng trực tiếp từ bậc dinh dưỡng B.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Sinh vật ở bậc dinh dưỡng D là sinh vật tự dưỡng.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "question": "Giả sử một quần xã có lưới thức ăn gồm 7 loài được kí hiệu là: A, B, C, D, E, G, H. Trong đó loài A là sinh vật sản xuất, các loài còn lại là sinh vật tiêu thụ. Mỗi phát biểu dưới đây là Đúng hay Sai?\r\n\r\n![image-20260506205234114](/images/image-20260506205234114.png)",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Loài E tham gia vào nhiều chuỗi thức ăn nhất.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Có tổng số 11 chuỗi thức ăn.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Nếu loài A bị nhiễm độc ở nồng độ thấp thì loài D sẽ bị nhiễm độc ở nồng độ cao hơn so với loài còn lại.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Loài D có mức năng lượng cao nhất.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q9",
+          "question": "Hình vẽ dưới đây mô tả tháp năng lượng của một hệ sinh thái đồng cỏ, trong đó A, B, C, D, E là kí hiệu tên các loài sinh vật. Theo lí thuyết, mỗi phát biểu dưới đây là Đúng hay Sai?\r\n\r\n![image-20260506205251603](/images/image-20260506205251603.png)",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Loài A có mức năng lượng cao nhất trong hệ sinh thái.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Loài C có mức năng lượng cao hơn loài B.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Năng lượng được tuần hoàn từ môi trường vào quần thể sinh vật thông qua loài A.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Do loài C và D sống ở hai môi trường khác nhau nên hiệu suất sinh thái giữa loài C và D là cao nhất trong hệ sinh thái đồng cỏ đang xét. *SAI",
+              "isTrue": false
+            }
+          ]
+        }
+      ],
+      "part3_shortAnswer": [
+        {
+          "id": "p3_q1",
+          "question": "Bức xạ mặt trời chiếu vào Trái Đất bị hấp thụ, tán xạ hoặc phản xạ bởi mây và bụi trong khí quyển khoảng bao nhiêu phần trăm?",
+          "correctAnswer": "`50`"
+        },
+        {
+          "id": "p3_q2",
+          "question": "Số mắt xích của chuỗi thức ăn thường có giới hạn vì sự hao phí năng lượng qua các bậc dinh dưỡng khoảng bao nhiêu %?",
+          "correctAnswer": "`90`"
+        },
+        {
+          "id": "p3_q3",
+          "question": "Cho chuỗi thức ăn trong một hệ sinh thái như sau: Tảo đơn bào → động vật phù du → giáp xác → cá → chim → người. Nếu ở bậc dinh dưỡng cấp 2 năng lượng nhận được là 10.10^4 kcal, hiệu suất sinh thái qua mỗi bậc dinh dưỡng là 10%. Theo lý thuyết, ở bậc dinh dưỡng cấp 6 sẽ nhận được bao nhiêu kcal?",
+          "correctAnswer": "`10`"
+        },
+        {
+          "id": "p3_q4",
+          "question": "Ở một vùng biển, năng lượng bức xạ chiếu xuống mặt nước đạt đến 3.10^6 kcal/m2/ngày. Tảo silic chỉ đồng hóa được 0,3% tổng năng lượng đó, giáp xác khai thác 40% năng lượng tích luỹ trong tảo. Số năng lượng tích tụ trong giáp xác là bao nhiêu kcal/m2?",
+          "correctAnswer": "`3600`"
+        },
+        {
+          "id": "p3_q5",
+          "question": "Giả sử năng lượng đồng hóa của các sinh vật dị dưỡng trong 1 chuỗi thức ăn như sau: Sinh vật tiêu thụ bậc 1: 1500000 Kcal. Sinh vật tiêu thụ bậc 2: 180000 Kcal. Sinh vật tiêu thụ bậc 3: 18000 Kcal. Sinh vật tiêu thụ bậc 4: 1620 Kcal. Hiệu suất sinh thái giữa bậc dinh dưỡng cấp 3 với bậc dinh dưỡng cấp 2 là bao nhiêu phần trăm?",
+          "correctAnswer": "`12`"
+        }
+      ]
+    }
+  },
+  {
+    "id": "BÀI 30 DIỄN THẾ SINH THÁI",
+    "title": "BÀI 30 DIỄN THẾ SINH THÁI",
+    "slug": "bai-30-dien-the-sinh-thai",
+    "data": {
+      "part1_multipleChoice": [
+        {
+          "id": "p1_q1",
+          "question": "Khi nói về diễn thế sinh thái, điều nào sau đây không đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Diễn thế nguyên sinh được bắt đầu từ một quần xã ổn định.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Diễn thế sinh thái là quá trình thay đổi thành phần loài của quần xã theo thời gian.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong quá trình diễn thế, luôn kéo theo sự biến đổi của ngoại cảnh.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Con người có thể dự đoán được chiều hướng của quá trình diễn thế.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q2",
+          "question": "Khi nói về diễn thế sinh thái, phát biểu nào sau đây là đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong diễn thế sinh thái, các quần xã sinh vật biến đổi tuần tự thay thế lẫn nhau.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Diễn thế thứ sinh xảy ra ở môi trường mà trước đó chưa có một quần xã sinh vật nào.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Diễn thế nguyên sinh xảy ra ở môi trường đã có một quần xã sinh vật nhất định.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Trong diễn thế sinh thái, sự biến đổi của quần xã diễn ra độc lập với sự biến đổi điều kiện ngoại cảnh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q3",
+          "question": "Khi nói về diễn thế sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Diễn thế sinh thái luôn khởi đầu từ môi trường chưa có sinh vật và các quần xã tuần tự thay thế nhau tương ứng với sự thay đổi của môi trường.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong diễn thế sinh thái, song song với quá trình biến đổi của quần xã là quá trình biến đổi về các điều kiện tự nhiên của môi trường.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Sự cạnh tranh giữa các loài trong quần xã là một trong những nguyên nhân gây ra diễn thế sinh thái.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Diễn thế sinh thái là quá trình biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "question": "Khi nói về diễn thế sinh thái, phát biểu nào sau đây sai?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong tự nhiên, kết thúc diễn thế sinh thái luôn tạo nên quần xã đỉnh cực.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Quần xã đỉnh cực có độ đa dạng cao, các mối quan hệ ổn định hơn quần xã tiên phong.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Khi hiểu về diễn thế sinh thái con người có thể điều khiển diễn thế theo ý muốn của mình.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Sự tác động của ngoại cảnh đến quần xã sinh vật có thể gây ra diễn thế sinh thái.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "question": "Khi nói về diễn thế nguyên sinh, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Diễn thế nguyên sinh khởi đầu từ môi trường chưa có sinh vật.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Trong diễn thế nguyên sinh, thành phần loài của quần xã không thay đổi.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Kết quả của diễn thế nguyên sinh là hình thành quần xã suy thoái.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Diễn thế nguyên sinh chỉ chịu tác động của điều kiện ngoại cảnh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q6",
+          "question": "Nguyên nhân bên trong thúc đẩy xảy ra diễn thế sinh thái là do",
+          "options": [
+            {
+              "key": "A",
+              "text": "sự cạnh tranh gay gắt giữa các loài ưu thế trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "mối quan hệ hỗ trợ giữa các loài trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "tác động mạnh mẽ của ngoại cảnh lên quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sự sinh sản của các loài trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q7",
+          "question": "Nguyên nhân bên ngoài gây ra diễn thế sinh thái là do",
+          "options": [
+            {
+              "key": "A",
+              "text": "tác động mạnh mẽ của ngoại cảnh lên quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "mối quan hệ hỗ trợ giữa các loài trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "sự cạnh tranh gay gắt giữa các loài ưu thế trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "sự sinh sản của các loài trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "question": "Diễn thế nguyên sinh không có đặc điểm nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Giai đoạn cuối hình thành quần xã bị suy thoái.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Bắt đầu từ môi trường trống trơn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Giai đoạn cuối hình thành quần xã tương đối ổn định.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Giai đoạn giữa có sự biến đổi tuần tự các quần xã sinh vật.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "question": "Quá trình hình thành quần xã rừng nhiệt đới sau khi núi lửa phun trào ở đảo Krakatau, Indonesia năm 1883 là diễn thế",
+          "options": [
+            {
+              "key": "A",
+              "text": "nguyên sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "thứ sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "liên tục.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "phân hủy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q10",
+          "question": "Quá trình hình thành một ao cá tự nhiên từ một hố bom là diễn thế",
+          "options": [
+            {
+              "key": "A",
+              "text": "nguyên sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "thứ sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "liên tục.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "phân hủy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q11",
+          "question": "Quá trình tái hình thành quần xã rừng U Minh Thượng diễn ra sau vụ cháy rừng năm 2002 là diễn thế",
+          "options": [
+            {
+              "key": "A",
+              "text": "thứ sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "nguyên sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "liên tục.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "phân hủy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "question": "Khẳng định nào sau đây đúng khi nói về diễn thế sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong những điều kiện nhất định, diễn thế thứ sinh có thể tạo ra một quần xã ổn định.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Diễn thế nguyên sinh bắt đầu sau khi một quần xã bị phá hủy hoàn toàn bởi thiên tai hoặc do con người.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Động lực chủ yếu gây ra quá trình diễn thế là sự thay đổi của các nhóm loài trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hoạt động của con người luôn gây hại cho quá trình diễn thế sinh thái của các quần xã tự nhiên.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "question": "Điều nào sau đây không phải là nguyên nhân dẫn đến diễn thế sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do mối quan hệ hợp tác giữa các loài trong quần xã.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Do hoạt động khai thác tài nguyên của con người.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Do cạnh tranh gay gắt giữa các loài trong quần xã.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Do thay đổi các điều kiện tự nhiên khí hậu.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q14",
+          "question": "Khi nói về diễn thế sinh thái, kết luận nào sau đây không đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quá trình diễn thế thứ sinh luôn dẫn tới làm cho quần xã bị suy thoái.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Diễn thế sinh thái là quá trình thay đổi thành phần loài của quần xã theo thời gian, tương ứng với sự biến đổi của môi trường.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Diễn thế nguyên sinh là diễn thế khởi đầu từ môi trường chưa có sinh vật và kết quả hình thành quần xã tương đối ổn định.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Diễn biến sinh thái xảy ra có thể do những nguyên nhân bên ngoài hoặc những nguyên nhân bên trong quần xã.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q15",
+          "question": "Có bao nhiêu thông tin là đặc điểm chung của diễn thế thứ sinh và diễn thế nguyên sinh?\r\nI. Xuất hiện ở môi trường trống trơn (chưa có quần xã sinh vật từng sinh sống).\r\nII. Có sự biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường.\r\nIII. Song song với quá trình biến đổi quần xã trong diễn thế là quá trình biến đổi về các điều kiện tự nhiên của môi trường.\r\nIV. Quá trình diễn thế có thể do tác động của các nhân tố bên ngoài hoặc do các mối quan hệ trong quần xã.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q16",
+          "question": "Có bao nhiêu thông tin sau đây đúng với diễn thế thứ sinh?\r\nI. Xuất hiện ở môi trường trống trơn (chưa có quần xã sinh vật từng sống).\r\nII. Có sự biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường.\r\nIII. Song song với quá trình diễn thế, có sự biến đổi về cấu trúc của quần xã sinh vật.\r\nIV. Kết quả có thể dẫn đến quần xã đỉnh cực hoặc quần xã suy thoái.",
+          "options": [
+            {
+              "key": "A",
+              "text": "3.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "1.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q17",
+          "question": "Khi nói về diễn thế sinh thái, có bao nhiêu phát biểu sau đây đúng?\r\nI. Diễn thế sinh thái là quá trình biến đổi tuần tự của quần xã qua các giai đoạn khác nhau.\r\nII. Quá trình diễn thế có thể tạo nên một quần xã ổn định hoặc suy thoái.\r\nIII. Người ta có thể dự đoán được tương lai của quá trình diễn thế.\r\nIV. Diễn thế sinh thái có thể được ứng dụng trong việc quy hoạch về nông lâm ngư nghiệp.",
+          "options": [
+            {
+              "key": "A",
+              "text": "4.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "3.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "2.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q18",
+          "question": "Phát biểu nào dưới đây không đúng với ý nghĩa của việc nghiên cứu diễn thế sinh thái?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chủ động điều khiển diễn thế sinh thái theo ý muốn của con người để có thể khai thác triệt để tài nguyên thiên nhiên.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Giúp rút ngắn thời gian hình thành quần xã đỉnh cực trong tái sinh rừng.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Chủ động xây dựng kế hoạch trong việc bảo vệ và khai thác hợp lí các nguồn tài nguyên thiên nhiên.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Đánh giá và dự đoán được hệ quả tác động của con người lên hệ sinh thái, giúp ngăn chặn diễn thế suy thoái và bảo vệ môi trường sống.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q19",
+          "question": "Cho các loài và quần xã sinh vật sau:\r\n1. Địa y.\r\n2. Cỏ, rêu và địa y.\r\n3. Cỏ và cây lâu năm.\r\n4. Cỏ, cây bụi và cây ưa sáng.\r\n5. Cây ưa bóng, sồi và hồ đào.\r\nQuá trình diễn thế nguyên sinh sẽ diễn ra theo thứ tự nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 → 2 → 3 → 4 → 5.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "1 → 3 → 2 → 4 → 5.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "1 → 3 → 2 → 5 → 4.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1 → 2 → 3 → 5 → 4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q20",
+          "question": "Hình ảnh sau đây đang mô tả quá trình diễn thế nào?\r\n*![image-20260506203148260](/images/image-20260506203148260.png)*",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nguyên sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Thứ sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Liên tục.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Phân hủy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q21",
+          "question": "Hình ảnh sau đây đang mô tả quá trình diễn thế nào?\r\n![image-20260506203306732](/images/image-20260506203306732.png)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thứ sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "B",
+              "text": "Nguyên sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "C",
+              "text": "Liên tục.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Phân hủy.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q22",
+          "question": "Trong quá trình diễn thế nguyên sinh, càng về sau thì",
+          "options": [
+            {
+              "key": "A",
+              "text": "các loài có ổ sinh thái hẹp sẽ thay thế dần các loài có ổ sinh thái rộng.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "độ đa dạng của quần xã càng cao, kích thước của mỗi quần thể càng nhỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "mạng lưới dinh dưỡng càng phức tạp, các chuỗi thức ăn càng ngắn dần.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "số lượng chuỗi thức ăn được bắt đầu bằng mùn bã hữu cơ càng ít đi.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q23",
+          "question": "Trong quá trình diễn thế nguyên sinh, càng về sau thì",
+          "options": [
+            {
+              "key": "A",
+              "text": "mạng lưới dinh dưỡng càng phức tạp, các chuỗi thức ăn càng dài.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "độ đa dạng của quần xã càng thấp, kích thước của mỗi quần thể càng lớn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "số lượng chuỗi thức ăn được bắt đầu bằng mùn bã hữu cơ càng ít đi.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "năng suất sinh học càng thấp, hiệu quả chuyển hóa năng lượng càng kém.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q24",
+          "question": "Trong quá trình diễn thế nguyên sinh, sự cạnh tranh giữa các quần thể trong quần xã mãnh liệt nhất khi",
+          "options": [
+            {
+              "key": "A",
+              "text": "ở giai đoạn cuối cùng của diễn thế.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "bắt đầu quá trình diễn thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "ở giai đoạn giữa của diễn thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "ở giai đoạn đầu hoặc giữa của quá trình diễn thế.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q25",
+          "question": "Trong quá trình diễn thế nguyên sinh, năng suất sinh học của quần xã đạt cực đại vào thời điểm sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ở giai đoạn cuối cùng của diễn thế.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Bắt đầu quá trình diễn thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Ở giai đoạn giữa của diễn thế.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Ở giai đoạn đầu hoặc giữa của quá trình diễn thế.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q26",
+          "question": "Sơ đồ sau đây nói về quá trình diễn thế tại quần xã rừng lim Hữu Lũng, tỉnh Lạng Sơn:\r\nRừng lim nguyên sinh → Rừng thưa cây gỗ nhỏ ưa sáng → Rừng cây gỗ nhỏ và cây bụi → Cây bụi và cỏ ưu thế → Trảng cỏ. Đây là ví dụ về",
+          "options": [
+            {
+              "key": "A",
+              "text": "diễn thế thứ sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "diễn thế nguyên sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "diễn thế phân hủy.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "cả diễn thế nguyên sinh và diễn thế thứ sinh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q27",
+          "question": "Trên tro tàn núi lửa xuất hiện quần xã tiên phong. Quần xã này sinh sống và phát triển làm tăng độ ẩm và làm giàu thêm nguồn dinh dưỡng tạo thuận lợi cho cỏ thay thế. Theo thời gian, sau cỏ là trảng cây thân thảo, thân gỗ và cuối cùng là rừng nguyên sinh. Theo lí thuyết, khi nói về quá trình này, phát biểu nào sau đây đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rừng nguyên sinh là quần xã đỉnh cực của quá trình biến đổi này.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Độ đa dạng sinh học có xu hướng giảm dần trong quá trình biến đổi này.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Trong quá trình này không có sự biến đổi của môi trường sống.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Đây là quá trình diễn thế sinh thái thứ sinh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q28",
+          "question": "Sự thay đổi sinh khối trong quá trình diễn thế sinh thái của bốn quần xã sinh vật được mô tả ở các hình I, II, III và IV dưới đây:\r\n![image-20260506203410437](/images/image-20260506203410437.png)\r\nTrong bốn hình trên, hai hình nào đều mô tả sinh khối của quần xã trong quá trình diễn thế nguyên sinh?",
+          "options": [
+            {
+              "key": "A",
+              "text": "III và IV.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "I và II.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "I và III.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "II và IV.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q29",
+          "question": "Sự thay đổi sinh khối trong quá trình diễn thế sinh thái của bốn quần xã sinh vật được mô tả ở các hình I, II, III và IV dưới đây:\r\n![image-20260506203445127](/images/image-20260506203445127.png)\r\nTrong bốn hình trên, hai hình nào đều mô tả sinh khối của quần xã trong quá trình diễn thế thứ sinh?",
+          "options": [
+            {
+              "key": "A",
+              "text": "I và II.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "I và III.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "II và IV.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "III và IV.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q30",
+          "question": "Trong quá trình diễn thế sinh thái nguyên sinh, đồ thị nào sau đây mô tả đúng kết quả của quá trình biến đổi quần xã từ khi khởi đầu diễn thế cho đến khi hình thành quần xã đỉnh cực?\r\n![image-20260506203507784](/images/image-20260506203507784.png)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Đồ thị 1.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Đồ thị 2.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Đồ thị 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Đồ thị 4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q31",
+          "question": "Khi nói về diễn thế nguyên sinh nhận xét nào sau không đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trong quá trình diễn thế nguyên sinh các loài có tuổi thọ thấp, kích thước nhỏ thay thế dần các loài có tuổi thọ cao, kích thước lớn.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Giới hạn của các nhân tố sinh thái ngày càng hẹp, môi trường trở nên ổn định hơn.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Chuỗi thức ăn ngày càng phức tạp, trong đó chuỗi thức ăn bắt đầu bằng mùn bã hữu cơ ngày càng đóng vai trò quan trọng.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Số lượng loài trong quần xã ngày càng tăng, số cá thể của mỗi loài ngày càng giảm.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q32",
+          "question": "Năm 2002, trận cháy lớn đã ảnh hưởng đến hơn 3000 ha rừng U Minh. Sau gần 20 năm, khoảng 90% diện tích rừng U Minh bị cháy đang dần được phục hồi. Hình nào dưới đây phù hợp để mô tả sự thay đổi số lượng loài trong quá trình diễn thế sinh thái ở rừng U Minh?\r\n![image-20260506203552230](/images/image-20260506203552230.png)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hình I.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Hình II.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Hình III.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Hình IV.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q33",
+          "question": "Cho các dữ kiện sau:\r\n1. Một đầm nước mới xây dựng.\r\n2. Các vùng đất quanh đầm bị xói mòn, làm cho đáy đầm bị nông dần. Các loài sinh vật nổi ít dần, các loài động vật chuyển vào sống trong lòng đầm ngày một nhiều.\r\n3. Trong đầm nước có nhiều loài thủy sinh ở các tầng nước khác nhau, các loài rong rêu và cây cỏ mọc ven bờ đầm.\r\n4. Đầm nước nông biến thành vùng đất trũng. Có cỏ và cây bụi dần dần đến sống trong đầm.\r\n5. Hình thành cây bụi và cây gỗ.\r\nSơ đồ nào sau đây thể hiện diễn thế ở đầm nước nông?",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 → 3 → 2 → 4 → 5.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "1 → 3 → 2 → 5 → 4.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "1 → 2 → 3 → 4 → 5.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "1 → 2 → 3 → 5 → 4.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q34",
+          "question": "Xét các nhóm loài thực vật:\r\n1. Thực vật thân thảo ưa sáng.\r\n2. Thực vật thân thảo ưa bóng.\r\n3. Thực vật thân gỗ ưa sáng.\r\n4. Thực vật thân cây bụi ưa sáng.\r\nTrong quá trình diễn thế nguyên sinh của quần xã trên cạn, thứ tự xuất hiện của các nhóm loài thực vật này là",
+          "options": [
+            {
+              "key": "A",
+              "text": "1 → 4 → 3 → 2.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "1 → 2 → 3 → 4.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "1 → 2 → 4 → 3.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "3 → 4 → 2 → 1.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q35",
+          "question": "Quá trình diễn thế xảy ra sau khi chặt hết các cây lim ở rừng lim nguyên sinh, Hữu Lũng, tỉnh Lạng Sơn là diễn thế thứ sinh và kết quả dẫn đến quần xã suy thoái. Quá trình này có thể diễn ra theo trật tự nào sau đây?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rừng lim nguyên sinh bị chặt hết → rừng thưa cây gỗ nhỏ → cây gỗ nhỏ và cây bụi → cây bụi và cỏ chiếm ưu thế → trảng cỏ.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "Rừng lim nguyên sinh bị chặt hết → cây gỗ nhỏ và cây bụi → rừng thưa cây gỗ nhỏ → cây bụi và cỏ chiếm ưu thế → trảng cỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "Rừng lim nguyên sinh bị chặt hết → cây bụi và cỏ chiếm ưu thế → rừng thưa cây gỗ nhỏ → cây gỗ nhỏ và cây bụi → trảng cỏ.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "Rừng lim nguyên sinh bị chặt hết → rừng thưa cây gỗ nhỏ → cây bụi và cỏ chiếm ưu thế → cây gỗ nhỏ và cây bụi → trảng cỏ.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q36",
+          "question": "Sau chiến tranh chống Mỹ, khu vực rừng ngập mặn Cần Giờ (thành phố Hồ Chí Minh) bị tàn phá nghiêm trọng. Ngày nay, khu vườn ngập mặn Cần Giờ đã được khôi phục lại và được công nhận là Khu dự trữ sinh quyển thế giới của Việt Nam. Đây là biểu hiện của hiện tượng",
+          "options": [
+            {
+              "key": "A",
+              "text": "diễn thế thứ sinh.",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "diễn thế nguyên sinh.",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "diễn thế phân hủy.",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "cả diễn thế nguyên sinh và diễn thế thứ sinh.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "id": "p1_q37",
+          "question": "Cho các giai đoạn chính trong quá trình diễn thế sinh thái ở một đầm nước nông như sau:\r\n(1) Đầm nước nông có nhiều loài sinh vật thủy sinh ở các tầng nước khác nhau: một số loài tảo, thực vật có hoa sống trên mặt nước; tôm, cá, cua, ốc,...\r\n(2) Hình thành rừng cây bụi và cây gỗ.\r\n(3) Các chất lắng đọng tích tụ ở đáy làm cho đầm bị nông dần. Thành phần sinh vật thay đổi: các sinh vật thủy sinh ít dần, đặc biệt là các loài động vật có kích thước lớn.\r\n(4) Đầm nước nông biến đổi thành vùng đất trũng, xuất hiện cỏ và cây bụi.\r\nTrật tự đúng của các giai đoạn trong quá trình diễn thế trên là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "(1) → (3) → (4) → (2).",
+              "isCorrect": true
+            },
+            {
+              "key": "B",
+              "text": "(2) → (1) → (4) → (3).",
+              "isCorrect": false
+            },
+            {
+              "key": "C",
+              "text": "(3) → (4) → (2) → (1).",
+              "isCorrect": false
+            },
+            {
+              "key": "D",
+              "text": "(1) → (2) → (3) → (4).",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "part2_trueFalse": [
+        {
+          "id": "p2_q1",
+          "question": "Hai đồ thị dưới đây mô tả quá trình diễn thế sinh thái nguyên sinh và diễn thế sinh thái thứ sinh. \r\n\r\n![image-20260506203721981](/images/image-20260506203721981.png)\r\n\r\nMỗi phát biểu sau đây nói về 2 quá trình diễn thế ở hai đồ thị bên dưới là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Đồ thị I mô tả quá trình diễn thế sinh thái nguyên sinh. Đồ thị II mô tả quá trình diễn thế sinh thái thứ sinh.",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Kết quả diễn thế theo đồ thị II sẽ hình thành quần xã đỉnh cực.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Diễn thế theo đồ thị I không thể hình thành quần xã đỉnh cực.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Trong diễn thế sinh thái xảy ra theo đồ thị II, ổ sinh thái của mỗi loài ngày càng thu hẹp.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q2",
+          "question": "Trên tro tàn núi lửa xuất hiện quần xã tiên phong, trước hết là rêu. Rêu phát triển làm tăng độ ẩm và làm giàu thêm nguồn dinh dưỡng cho đất, tạo thuận lợi cho cỏ xuất hiện và phát triển. Theo thời gian, dần dần trảng cây bụi, cây thân gỗ xuất hiện và cuối cùng sẽ hình thành nên rừng nguyên sinh. Dựa vào các thông tin trên, mỗi phát biểu sau đây ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Theo thời gian, tính đa dạng về loài ngày càng tăng.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Kết quả quá trình trên có thể hình thành nên quần xã ổn định (quần xã đỉnh cự",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": ".",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Quá trình trên là diễn thế sinh thái nguyên sinh.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Theo thời gian, ổ sinh thái của mỗi loài ngày càng được mở rộng.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q3",
+          "question": "Trên tro tàn núi lửa xuất hiện quần xã tiên phong. Quần xã này sinh sống và phát triển làm tăng độ ẩm và làm giàu thêm nguồn dinh dưỡng hữu cơ, tạo thuận lợi cho cỏ thay thế. Theo thời gian, dần dần trảng cây thân thảo, cây thân gỗ xuất hiện và cuối cùng sẽ hình thành nên rừng nguyên sinh. Dựa vào các thông tin trên, mỗi phát biểu sau đây ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Đây là quá trình diễn thế sinh thái.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Rừng nguyên sinh là quần xã đỉnh cực của quá trình biến đổi này.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Độ đa dạng sinh học giảm dần trong quá trình biến đổi này.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Một trong những nguyên nhân gây ra quá trình biến đổi này là sự cạnh tranh gay gắt giữa các loài trong quần xã.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "question": "Sau 1 trận cháy rừng, số lượng các loài thực vật trong khu rừng suy giảm nghiêm trọng. Sau một thời gian dài đã xuất hiện trở lại một quần thể mới với số lượng tương đương quần thể ban đầu. Mỗi phát biểu sau về quá trình trên là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Quần thể đã chịu ảnh hưởng của yếu tố ngẫu nhiên.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Quần thể phục hồi có thể có vốn gene nghèo nàn hơn quần thể trước lúc giảm sút.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Quần thể này phục hồi tại nơi ở cũ nên không chịu tác động của CLTN.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Đây là quá trình diễn thế thứ sinh.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "question": "Khi nói về diễn thế sinh thái, mỗi phát biểu sau đây ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Diễn thế sinh thái xảy ra do sự thay đổi các điều kiện tự nhiên, khí hậu... hoặc do sự cạnh tranh gay gắt giữa các loài trong quần xã, hoặc do hoạt động khai thác tài nguyên của con người.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Diễn thế nguyên sinh là diễn thế khởi đầu từ môi trường đã có quần xã sinh vật từng sinh sống và thường dẫn đến hình thành một quần xã ổn định.",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Diễn thế sinh thái là quá trình biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Nghiên cứu diễn thế giúp chúng ta có thể khai thác hợp lí tài nguyên thiên nhiên và khắc phục những biến đổi bất lợi của môi trường.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q6",
+          "question": "Hiệu ứng nhà kính (The greenhouse effect) là hiệu ứng gây ra do sự hấp thụ bức xạ hồng ngoại của các cấu tử hấp thụ tia hồng ngoại trong khí quyển khiến cho không khí của Trái Đất bị nóng lên. ... Khi nói về các nguyên nhân, hậu quả và các biện pháp hạn chế hiện tượng hiệu ứng nhà kính, mỗi phát biểu sau là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Khí CO2 là nguyên nhân chính gây hiệu ứng nhà kính. Các hoạt động sinh hoạt, khai thác và phát triển của con người cùng với các hoạt động chặt phá rừng bừa bãi khiến khí CO2 ngày càng tăng, hiện tượng hiệu ứng nhà kính cũng tăng cao.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Nhiệt độ cao thì có thể làm tan nhanh băng tuyết ở Bắc Cực và Nam Cực và do đó mực nước biển sẽ tăng quá cao, có thể dẫn đến nạn hồng thủy.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Bảo vệ tốt cây rừng, tích cực trồng cây gây rừng, làm cho CO2 chuyển hóa thành chất dinh dưỡng thông qua tác dụng quang hợp của cây xanh để giúp giảm hiện tượng hiệu ứng nhà kính.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Làm giảm lượng tiêu thụ năng lượng dầu mỏ và than, cố gắng áp dụng năng lượng mặt trời, năng lượng nước và gió để giảm bớt lượng CO2 thải vào không khí.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "question": "Trong điều kiện môi trường tương đối ổn định nhưng diễn thế sinh thái vẫn có thể diễn ra, mỗi nhận định chỉ ra dưới đây về hiện tượng trên là ĐÚNG hay SAI?",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Số lượng loài tăng, quan hệ sinh học trở nên căng thẳng và sự cạnh tranh gay gắt dẫn đến quần xã biến đổi.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Nhóm loài ưu thế phát triển làm môi trường biến đổi mạnh gây ra diễn thế.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Nhóm loài ưu thế bị suy thoái, các loài thứ yếu có thể phát triển thành loài chủ yếu, quần xã biến đổi.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Lượng quang năng cung cấp cho khu hệ sinh thái bị thay đổi một cách đột ngột dẫn tới diễn thế sinh thái.",
+              "isTrue": false
+            }
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "question": "Sơ đồ sau mô tả quá trình diễn thế thứ sinh dẫn đến quần xã bị suy thoái đã xảy ra ở rừng lim Hữu Lũng, tỉnh Lạng Sơn do hoạt động chặt phá rừng của con người. Quá trình này gồm các giai đoạn sau:\r\n(1) Rừng lim nguyên sinh → (2) → (3) → (4) Cây bụi và cỏ chiếm ưu thế → (5)\r\nTrong đó, mỗi kí hiệu (2), (3), (5) ứng với một trong các giai đoạn sau: (",
+          "statements": [
+            {
+              "id": "a",
+              "text": "Trảng cỏ; Rừng thưa cây gỗ nhỏ ưa sáng; (",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Cây gỗ nhỏ và cây bụi. Khi nói về quá trình diễn thế này, mỗi phát biểu sau đây ĐÚNG hay SAI?",
+              "isTrue": false
+            },
+            {
+              "id": "a",
+              "text": "Kí hiệu (2) tương ứng với giai đoạn (",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": ", kí hiệu (3) tương ứng với giai đoạn (",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": ".",
+              "isTrue": false
+            },
+            {
+              "id": "b",
+              "text": "Lưới thức ăn của quần xã ở giai đoạn (3) phức tạp hơn so với giai đoạn (1).",
+              "isTrue": false
+            },
+            {
+              "id": "c",
+              "text": "Quá trình diễn thế này phản ánh sự khai thác tài nguyên quá mức của con người.",
+              "isTrue": true
+            },
+            {
+              "id": "d",
+              "text": "Nếu ở giai đoạn (5), rừng được trồng lại và bảo vệ thì độ đa dạng của quần xã này có thể tăng dần.",
+              "isTrue": true
+            }
+          ]
+        },
+        {
+          "id": "p2_q9",
+          "question": "Cho hình ảnh về các giai đoạn của một quá trình diễn thế sinh thái và các phát biểu sau đây: biết (",
+          "statements": [
+            {
+              "id": "a",
+              "text": "là giai đoạn khởi đầu, các giai đoạn còn lại đang không đúng với trình tự.",
+              "isTrue": false
+            },
+            {
+              "id": "a",
+              "text": "Quá trình này là diễn thế nguyên sinh.",
+              "isTrue": true
+            },
+            {
+              "id": "b",
+              "text": "Thứ tự diễn thế là a → e → c → d → b.",
+              "isTrue": true
+            },
+            {
+              "id": "c",
+              "text": "Quần xã ở giai đoạn (",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "có độ đa dạng cao nhất.",
+              "isTrue": false
+            },
+            {
+              "id": "d",
+              "text": "Thành phần thực vật chủ yếu trong giai đoạn (e) là cây thân thảo ưa bóng. *ĐÚNG",
+              "isTrue": false
+            }
+          ]
+        }
+      ],
+      "part3_shortAnswer": [
+        {
+          "id": "p3_q1",
+          "question": "Khi nói về diễn thế sinh thái, có bao nhiêu phát biểu sau đây đúng?\r\nI. Diễn thế sinh thái xảy ra do sự thay đổi các điều kiện tự nhiên, khí hậu... hoặc do sự cạnh tranh gay gắt giữa các loài trong quần xã, hoặc do hoạt động khai thác tài nguyên của con người.\r\nII. Diễn thế nguyên sinh là diễn thế khởi đầu từ môi trường đã có quần xã sinh vật từng sinh sống và thường dẫn đến hình thành một quần xã ổn định.\r\nIII. Diễn thế sinh thái là quá trình biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường.\r\nIV. Nghiên cứu diễn thế giúp chúng ta có thể khai thác hợp lí tài nguyên thiên nhiên và khắc phục những biến đổi bất lợi của môi trường.",
+          "correctAnswer": "3"
+        },
+        {
+          "id": "p3_q2",
+          "question": "Có bao nhiêu thông tin sau đây đúng với diễn thế nguyên sinh?\r\nI. Bắt đầu từ một môi trường chưa có sinh vật.\r\nII. Được biến đổi tuần tự qua các quần xã trung gian.\r\nIII. Quá trình diễn thế gắn liền với sự phá hoại môi trường.\r\nIV. Kết quả cuối cùng sẽ tạo ra quần xã đỉnh cực.",
+          "correctAnswer": "3"
+        },
+        {
+          "id": "p3_q3",
+          "question": "Khi nói về diễn thế sinh thái, có bao nhiêu phát biểu sau đây đúng?\r\nI. Trong quá trình diễn thế sinh thái, loài ưu thế chính là những loài đã \"tự đào huyệt chôn mình\".\r\nII. Nguyên nhân gây ra diễn thế sinh thái có thể do tác động trực tiếp của con người.\r\nIII. Trong diễn thế nguyên sinh, giai đoạn cuối hình thành quần xã có độ đa dạng lớn nhất.\r\nIV. Diễn thế sinh thái là sự thay đổi cấu trúc quần xã một cách ngẫu nhiên.",
+          "correctAnswer": "3"
+        },
+        {
+          "id": "p3_q4",
+          "question": "Có bao nhiêu nhận định sau đây phản ánh sự giống nhau giữa diễn thế nguyên sinh và diễn thế thứ sinh?\r\nI. Có sự biến đổi tuần tự của quần xã tương ứng với các điều kiện môi trường.\r\nII. Luôn dẫn tới quần xã suy thoái.\r\nIII. Quá trình biến đổi quần xã trong diễn thế luôn song song với quá trình biến đổi về các điều kiện tự nhiên của môi trường.\r\nIV. Xuất hiện ở môi trường đã có một quần xã sinh vật sinh sống.",
+          "correctAnswer": "2"
+        },
+        {
+          "id": "p3_q5",
+          "question": "Khi nghiên cứu diễn thế sinh thái có thể giúp chúng ta giải quyết bao nhiêu vấn đề thực tiễn sau đây?\r\nI. Khai thác hợp lý nguồn tài nguyên thiên nhiên.\r\nII. Khắc phục những biến đổi bất lợi của môi trường.\r\nIII. Hiểu được các quy luật phát triển của quần xã sinh vật.\r\nIV. Dự đoán được các quần xã đã tồn tại trước đó và quần xã sẽ thay thế trong tương lai.\r\nV. Rút ngắn thời gian hình thành quần thể đỉnh cực trong tái sinh rừng, phục hồi quần xã suy thoái.",
+          "correctAnswer": "5"
+        }
+      ]
+    }
+  }
+]
