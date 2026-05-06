@@ -58,7 +58,8 @@ webonline thi sinh/
   - Ví dụ: `*Đáp án: 12.5`
 
 **d. Quy tắc hình ảnh và công thức Toán học/Hóa học:**
-- **Hình ảnh:** Cứ chèn ảnh bình thường bằng cú pháp Markdown `![Tên ảnh](đường/dẫn/ảnh.png)`. Bạn có thể copy ảnh trực tiếp vào Typora, hệ thống sẽ tự động tìm ảnh đó trên máy của bạn và đưa lên web.
+- **Hình ảnh:** Cứ chèn ảnh bình thường bằng cú pháp Markdown `![Tên ảnh](đường/dẫn/ảnh.png)`. Bạn có thể copy ảnh trực tiếp vào Typora.
+  - *Cơ chế tự động:* Khi chạy lệnh parser, script sẽ quét và tìm đường dẫn ảnh gốc trên máy tính của bạn (VD: `C:\Users\...\AppData\Roaming\Typora\image.png`). Sau đó, nó tự động copy bức ảnh này bỏ vào thư mục `quiz-app/public/images/` của dự án, và sửa lại đường dẫn trong bộ nhớ web để trang web có thể hiển thị được ngay.
 - **Công thức Toán/Hóa (LaTeX):** 
   - Đặt công thức nội suy (cùng hàng) trong cặp dấu `$`. Ví dụ: `$H' = -\sum_{i=1}^{S}$`
   - Đặt công thức thành khối (xuống dòng) trong cặp dấu `$$`. Ví dụ: `$$ x = \frac{-b \pm \sqrt{\Delta}}{2a} $$`
